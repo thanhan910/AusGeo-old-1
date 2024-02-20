@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::7844" } },
+"features": [
+{ "type": "Feature", "properties": { "suburb_id": "89797", "postcode_id": "9797", "area_sqkm": 0.0, "state_id": "8", "country_id": "AUS", "suburb": "Migratory - Offshore - Shipping (ACT)", "postcode": "Migratory - Offshore - Shipping (Aust.)", "state_name": "Australian Capital Territory", "country_name": "Australia", "state": "ACT" }, "geometry": null }
+]
+}

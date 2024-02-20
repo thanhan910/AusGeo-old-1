@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::7844" } },
+"features": [
+{ "type": "Feature", "properties": { "suburb_id": "79494", "postcode_id": "9494", "area_sqkm": 0.0, "state_id": "7", "country_id": "AUS", "suburb": "No usual address (NT)", "postcode": "No usual address (Aust.)", "state_name": "Northern Territory", "country_name": "Australia", "state": "NT" }, "geometry": null }
+]
+}
