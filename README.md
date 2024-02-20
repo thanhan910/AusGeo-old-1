@@ -23,3 +23,10 @@ This repository contains the code and data for the analysis of Australian geogra
 - Postcodes: 
     - Australia Post's Postcode Finder: https://auspost.com.au/postcode
     - Matthew Proctor's Postcodes dataset: https://www.matthewproctor.com/australian_postcodes
+
+
+## Instructions
+
+This repository has downloaded data from ABS and uploaded it to the `data` directory. All rights to the data belong to the ABS.
+
+Instructions for loading the downloaded data from this repository are provided in the load-data.ipynb notebook.
