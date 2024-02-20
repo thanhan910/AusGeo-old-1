@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::7844" } },
+"features": [
+{ "type": "Feature", "properties": { "MB_CODE21": "20000009499", "MB_CAT21": "NOUSUALRESIDENCE", "CHG_FLAG21": "0", "CHG_LBL21": "No change", "SA1_CODE21": "29999949999", "SA2_CODE21": "299999499", "SA2_NAME21": "No usual address (Vic.)", "SA3_CODE21": "29999", "SA3_NAME21": "No usual address (Vic.)", "SA4_CODE21": "299", "SA4_NAME21": "No usual address (Vic.)", "GCC_CODE21": "29499", "GCC_NAME21": "No usual address (Vic.)", "STE_CODE21": "2", "STE_NAME21": "Victoria", "AUS_CODE21": "AUS", "AUS_NAME21": "Australia", "AREASQKM21": null, "LOCI_URI21": "http://linked.data.gov.au/dataset/asgsed3/MB/20000009499" }, "geometry": null }
+]
+}

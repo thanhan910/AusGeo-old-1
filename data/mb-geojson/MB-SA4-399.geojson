@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::7844" } },
+"features": [
+{ "type": "Feature", "properties": { "MB_CODE21": "30000009499", "MB_CAT21": "NOUSUALRESIDENCE", "CHG_FLAG21": "0", "CHG_LBL21": "No change", "SA1_CODE21": "39999949999", "SA2_CODE21": "399999499", "SA2_NAME21": "No usual address (Qld)", "SA3_CODE21": "39999", "SA3_NAME21": "No usual address (Qld)", "SA4_CODE21": "399", "SA4_NAME21": "No usual address (Qld)", "GCC_CODE21": "39499", "GCC_NAME21": "No usual address (Qld)", "STE_CODE21": "3", "STE_NAME21": "Queensland", "AUS_CODE21": "AUS", "AUS_NAME21": "Australia", "AREASQKM21": null, "LOCI_URI21": "http://linked.data.gov.au/dataset/asgsed3/MB/30000009499" }, "geometry": null }
+]
+}

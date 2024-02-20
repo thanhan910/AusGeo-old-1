@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::7844" } },
+"features": [
+{ "type": "Feature", "properties": { "MB_CODE21": "40000009499", "MB_CAT21": "NOUSUALRESIDENCE", "CHG_FLAG21": "0", "CHG_LBL21": "No change", "SA1_CODE21": "49999949999", "SA2_CODE21": "499999499", "SA2_NAME21": "No usual address (SA)", "SA3_CODE21": "49999", "SA3_NAME21": "No usual address (SA)", "SA4_CODE21": "499", "SA4_NAME21": "No usual address (SA)", "GCC_CODE21": "49499", "GCC_NAME21": "No usual address (SA)", "STE_CODE21": "4", "STE_NAME21": "South Australia", "AUS_CODE21": "AUS", "AUS_NAME21": "Australia", "AREASQKM21": null, "LOCI_URI21": "http://linked.data.gov.au/dataset/asgsed3/MB/40000009499" }, "geometry": null }
+]
+}
