@@ -9,7 +9,7 @@ import io
 import zipfile
 
 
-dfMB = pd.concat([pd.read_csv(f'data/blocks/MB-{state_code}.csv', dtype=str) for state_code in [1, 2, 4, 5, 6, 8, 9, 'Z']], ignore_index=True)
+dfMB = pd.concat([pd.read_csv(f'data/core/mb-info/MB-{state_code}.csv', dtype=str) for state_code in [1, 2, 4, 5, 6, 8, 9, 'Z']], ignore_index=True)
 
 
 dfMB['AREA_ALBERS_SQKM'] = dfMB['AREA_ALBERS_SQKM'].astype(float)
@@ -61,7 +61,7 @@ postcodes_first_2_digits = df_suburbs[(df_suburbs['capital_city'].apply(lambda x
 postcodes_first_2_digits.sort()
 
 
-gdf : gpd.GeoDataFrame = gpd.GeoDataFrame(pd.concat([gpd.read_file(f'data/suburbs/suburbs-2-{p2}.geojson') for p2 in postcodes_first_2_digits], ignore_index=True))
+gdf : gpd.GeoDataFrame = gpd.GeoDataFrame(pd.concat([gpd.read_file(f'data/core/suburbs/suburbs-2-{p2}.geojson') for p2 in postcodes_first_2_digits], ignore_index=True))
 # 20s - 30s
 
 
