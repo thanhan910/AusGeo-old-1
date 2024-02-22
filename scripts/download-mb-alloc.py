@@ -43,6 +43,38 @@ for name, df in dfs.items():
   df.to_csv(f'{data_directory}/{name}.csv')
 # 1m
 
+table_names = {
+  'MB_2021_AUST': 'Mesh Blocks - 2021',
+  'SA1_2021_AUST': 'Statistical Areas Level 1 - 2021',
+  'SA2_2021_AUST': 'Statistical Areas Level 2 - 2021',
+  'SA3_2021_AUST': 'Statistical Areas Level 3 - 2021',
+  'SA4_2021_AUST': 'Statistical Areas Level 4 - 2021',
+  'GCCSA_2021_AUST': 'Greater Capital City Statistical Areas - 2021',
+  'STE_2021_AUST': 'States and Territories - 2021',
+  'AUS_2021_AUST': 'Australia - 2021',
+  'INDIGENOUS_STRUCTURE_ALLOCATION_2021': 'Indigenous Structure - 2021',
+  'ILOC_2021_AUST': 'Indigenous Locations - 2021',
+  'IARE_2021_AUST': 'Indigenous Areas - 2021',
+  'IREG_2021_AUST': 'Indigenous Regions - 2021',
+  'LGA_2023_AUST': 'Local Government Areas - 2023',
+  'LGA_2022_AUST': 'Local Government Areas - 2022',
+  'LGA_2021_AUST': 'Local Government Areas - 2021',
+  'SED_2022_AUST': 'State Electoral Divisions - 2022',
+  'SED_2021_AUST': 'State Electoral Divisions - 2021',
+  'CED_2021_AUST': 'Commonwealth Electoral Divisions - 2021',
+  'POA_2021_AUST': 'Postal Areas - 2021',
+  'TR_2021_AUST': 'Tourism Regions - 2021',
+  'ADD_2021_AUST': 'Australian Drainage Divisions - 2021',
+  'SAL_2021_AUST': 'Suburbs and Localities - 2021',
+  'MB_DZN_2021_AUST': 'Destination Zones - 2021',
+  'DZN_SA2_2021_AUST': 'Destination Zones to Statistical Areas Level 2 - 2021',
+  'SUA_2021_AUST': 'Significant Urban Areas - 2021',
+  'UCL_SOSR_SOS_2021_AUST': 'Urban Centres and Localities, Section of State and Section of State Range - 2021',
+  'SUA_association_2016_2021': 'Significant Urban Area association - 2016 to 2021',
+  'UCL_association_2016_2021': 'Urban Centre and Locality association - 2016 to 2021',
+  'RA_2021_AUST': 'Remoteness Areas - 2021'
+}
+
 # !cd AusGeo/data/mb-allocation && ls -lh | sort -k 5,5 -h
 
 # ['MB_2021_AUST',
