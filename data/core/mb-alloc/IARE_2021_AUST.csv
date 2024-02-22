@@ -1,0 +1,432 @@
+,IARE_CODE_2021,IARE_NAME_2021,IREG_CODE_2021,IREG_NAME_2021,STATE_CODE_2021,STATE_NAME_2021,AUS_CODE_2021,AUS_NAME_2021,AREA_ALBERS_SQKM,ASGS_LOCI_URI_2021
+0,101001,Bogan,101,Dubbo,1,New South Wales,AUS,Australia,14999.2903,http://linked.data.gov.au/dataset/asgsed3/IARE/101001
+1,101002,Dubbo,101,Dubbo,1,New South Wales,AUS,Australia,3803.0599,http://linked.data.gov.au/dataset/asgsed3/IARE/101002
+2,101003,Gilgandra,101,Dubbo,1,New South Wales,AUS,Australia,4442.6569,http://linked.data.gov.au/dataset/asgsed3/IARE/101003
+3,101004,Narromine,101,Dubbo,1,New South Wales,AUS,Australia,5956.2535,http://linked.data.gov.au/dataset/asgsed3/IARE/101004
+4,101005,Parkes,101,Dubbo,1,New South Wales,AUS,Australia,5652.9204,http://linked.data.gov.au/dataset/asgsed3/IARE/101005
+5,101006,Warren,101,Dubbo,1,New South Wales,AUS,Australia,9681.2509,http://linked.data.gov.au/dataset/asgsed3/IARE/101006
+6,101007,Warrumbungle Shire,101,Dubbo,1,New South Wales,AUS,Australia,10474.1331,http://linked.data.gov.au/dataset/asgsed3/IARE/101007
+7,101008,Wellington,101,Dubbo,1,New South Wales,AUS,Australia,4111.506,http://linked.data.gov.au/dataset/asgsed3/IARE/101008
+8,102001,Armidale,102,North-Eastern NSW,1,New South Wales,AUS,Australia,3760.1185,http://linked.data.gov.au/dataset/asgsed3/IARE/102001
+9,102002,Glen Innes,102,North-Eastern NSW,1,New South Wales,AUS,Australia,5479.977,http://linked.data.gov.au/dataset/asgsed3/IARE/102002
+10,102003,Gunnedah,102,North-Eastern NSW,1,New South Wales,AUS,Australia,4941.2885,http://linked.data.gov.au/dataset/asgsed3/IARE/102003
+11,102004,Guyra - Tingha,102,North-Eastern NSW,1,New South Wales,AUS,Australia,4678.1898,http://linked.data.gov.au/dataset/asgsed3/IARE/102004
+12,102005,Inverell - Gwydir,102,North-Eastern NSW,1,New South Wales,AUS,Australia,17435.5101,http://linked.data.gov.au/dataset/asgsed3/IARE/102005
+13,102006,Liverpool Plains,102,North-Eastern NSW,1,New South Wales,AUS,Australia,5077.8424,http://linked.data.gov.au/dataset/asgsed3/IARE/102006
+14,102007,Moree,102,North-Eastern NSW,1,New South Wales,AUS,Australia,39.301,http://linked.data.gov.au/dataset/asgsed3/IARE/102007
+15,102008,Moree Plains,102,North-Eastern NSW,1,New South Wales,AUS,Australia,18283.9055,http://linked.data.gov.au/dataset/asgsed3/IARE/102008
+16,102009,Muswellbrook,102,North-Eastern NSW,1,New South Wales,AUS,Australia,3404.8841,http://linked.data.gov.au/dataset/asgsed3/IARE/102009
+17,102010,Narrabri,102,North-Eastern NSW,1,New South Wales,AUS,Australia,13060.7347,http://linked.data.gov.au/dataset/asgsed3/IARE/102010
+18,102011,Tamworth,102,North-Eastern NSW,1,New South Wales,AUS,Australia,9221.229,http://linked.data.gov.au/dataset/asgsed3/IARE/102011
+19,102012,Tenterfield - Jubullum Village,102,North-Eastern NSW,1,New South Wales,AUS,Australia,7324.3072,http://linked.data.gov.au/dataset/asgsed3/IARE/102012
+20,102013,Upper Hunter,102,North-Eastern NSW,1,New South Wales,AUS,Australia,8067.5327,http://linked.data.gov.au/dataset/asgsed3/IARE/102013
+21,102014,Uralla - Walcha,102,North-Eastern NSW,1,New South Wales,AUS,Australia,9837.4962,http://linked.data.gov.au/dataset/asgsed3/IARE/102014
+22,103001,Bourke,103,North-Western NSW,1,New South Wales,AUS,Australia,42028.1758,http://linked.data.gov.au/dataset/asgsed3/IARE/103001
+23,103002,Brewarrina,103,North-Western NSW,1,New South Wales,AUS,Australia,18511.7678,http://linked.data.gov.au/dataset/asgsed3/IARE/103002
+24,103003,Cobar - Murrin Bridge,103,North-Western NSW,1,New South Wales,AUS,Australia,45551.398,http://linked.data.gov.au/dataset/asgsed3/IARE/103003
+25,103004,Coonamble,103,North-Western NSW,1,New South Wales,AUS,Australia,9628.5955,http://linked.data.gov.au/dataset/asgsed3/IARE/103004
+26,103005,Far West,103,North-Western NSW,1,New South Wales,AUS,Australia,146854.847,http://linked.data.gov.au/dataset/asgsed3/IARE/103005
+27,103006,Walgett,103,North-Western NSW,1,New South Wales,AUS,Australia,23312.7114,http://linked.data.gov.au/dataset/asgsed3/IARE/103006
+28,104001,Ballina - Bagotville,104,NSW Central and North Coast,1,New South Wales,AUS,Australia,480.5548,http://linked.data.gov.au/dataset/asgsed3/IARE/104001
+29,104002,Byron,104,NSW Central and North Coast,1,New South Wales,AUS,Australia,568.1142,http://linked.data.gov.au/dataset/asgsed3/IARE/104002
+30,104003,Cessnock,104,NSW Central and North Coast,1,New South Wales,AUS,Australia,1968.208,http://linked.data.gov.au/dataset/asgsed3/IARE/104003
+31,104004,Clarence Valley,104,NSW Central and North Coast,1,New South Wales,AUS,Australia,10456.0902,http://linked.data.gov.au/dataset/asgsed3/IARE/104004
+32,104005,Coffs Harbour - Nambucca,104,NSW Central and North Coast,1,New South Wales,AUS,Australia,4244.6096,http://linked.data.gov.au/dataset/asgsed3/IARE/104005
+33,104006,Gloucester - Dungog,104,NSW Central and North Coast,1,New South Wales,AUS,Australia,5183.8659,http://linked.data.gov.au/dataset/asgsed3/IARE/104006
+34,104007,Gosford,104,NSW Central and North Coast,1,New South Wales,AUS,Australia,941.2166,http://linked.data.gov.au/dataset/asgsed3/IARE/104007
+35,104008,Great Lakes,104,NSW Central and North Coast,1,New South Wales,AUS,Australia,3337.361,http://linked.data.gov.au/dataset/asgsed3/IARE/104008
+36,104009,Kempsey,104,NSW Central and North Coast,1,New South Wales,AUS,Australia,3868.3825,http://linked.data.gov.au/dataset/asgsed3/IARE/104009
+37,104010,Kyogle,104,NSW Central and North Coast,1,New South Wales,AUS,Australia,3551.7672,http://linked.data.gov.au/dataset/asgsed3/IARE/104010
+38,104012,Lismore,104,NSW Central and North Coast,1,New South Wales,AUS,Australia,1302.4913,http://linked.data.gov.au/dataset/asgsed3/IARE/104012
+39,104013,Maitland,104,NSW Central and North Coast,1,New South Wales,AUS,Australia,388.5306,http://linked.data.gov.au/dataset/asgsed3/IARE/104013
+40,104014,Newcastle,104,NSW Central and North Coast,1,New South Wales,AUS,Australia,188.7116,http://linked.data.gov.au/dataset/asgsed3/IARE/104014
+41,104015,Port Macquarie - Hastings,104,NSW Central and North Coast,1,New South Wales,AUS,Australia,3687.7694,http://linked.data.gov.au/dataset/asgsed3/IARE/104015
+42,104016,Port Stephens,104,NSW Central and North Coast,1,New South Wales,AUS,Australia,894.4919,http://linked.data.gov.au/dataset/asgsed3/IARE/104016
+43,104017,Richmond Valley,104,NSW Central and North Coast,1,New South Wales,AUS,Australia,3060.6073,http://linked.data.gov.au/dataset/asgsed3/IARE/104017
+44,104018,Singleton,104,NSW Central and North Coast,1,New South Wales,AUS,Australia,4348.5749,http://linked.data.gov.au/dataset/asgsed3/IARE/104018
+45,104019,Taree,104,NSW Central and North Coast,1,New South Wales,AUS,Australia,3741.2006,http://linked.data.gov.au/dataset/asgsed3/IARE/104019
+46,104020,Tweed,104,NSW Central and North Coast,1,New South Wales,AUS,Australia,1307.7853,http://linked.data.gov.au/dataset/asgsed3/IARE/104020
+47,104022,Lake Macquarie,104,NSW Central and North Coast,1,New South Wales,AUS,Australia,592.9006,http://linked.data.gov.au/dataset/asgsed3/IARE/104022
+48,104023,Wyong,104,NSW Central and North Coast,1,New South Wales,AUS,Australia,793.5169,http://linked.data.gov.au/dataset/asgsed3/IARE/104023
+49,105001,Albury,105,Riverina - Orange,1,New South Wales,AUS,Australia,353.5473,http://linked.data.gov.au/dataset/asgsed3/IARE/105001
+50,105002,Balranald - Wentworth,105,Riverina - Orange,1,New South Wales,AUS,Australia,49750.7498,http://linked.data.gov.au/dataset/asgsed3/IARE/105002
+51,105003,Bathurst,105,Riverina - Orange,1,New South Wales,AUS,Australia,3809.6,http://linked.data.gov.au/dataset/asgsed3/IARE/105003
+52,105004,Blayney - Cabonne,105,Riverina - Orange,1,New South Wales,AUS,Australia,6735.0681,http://linked.data.gov.au/dataset/asgsed3/IARE/105004
+53,105005,Carrathool - Murrumbidgee,105,Riverina - Orange,1,New South Wales,AUS,Australia,20437.2627,http://linked.data.gov.au/dataset/asgsed3/IARE/105005
+54,105006,Central Murray,105,Riverina - Orange,1,New South Wales,AUS,Australia,33818.6148,http://linked.data.gov.au/dataset/asgsed3/IARE/105006
+55,105007,Coolamon - Temora - West Wyalong,105,Riverina - Orange,1,New South Wales,AUS,Australia,16807.2401,http://linked.data.gov.au/dataset/asgsed3/IARE/105007
+56,105008,Cootamundra,105,Riverina - Orange,1,New South Wales,AUS,Australia,1656.1222,http://linked.data.gov.au/dataset/asgsed3/IARE/105008
+57,105009,Cowra,105,Riverina - Orange,1,New South Wales,AUS,Australia,2897.876,http://linked.data.gov.au/dataset/asgsed3/IARE/105009
+58,105010,Deniliquin - Murray,105,Riverina - Orange,1,New South Wales,AUS,Australia,4486.0315,http://linked.data.gov.au/dataset/asgsed3/IARE/105010
+59,105011,Forbes,105,Riverina - Orange,1,New South Wales,AUS,Australia,4227.7726,http://linked.data.gov.au/dataset/asgsed3/IARE/105011
+60,105012,Griffith - Leeton,105,Riverina - Orange,1,New South Wales,AUS,Australia,2761.3371,http://linked.data.gov.au/dataset/asgsed3/IARE/105012
+61,105013,Gundagai - Junee - Harden,105,Riverina - Orange,1,New South Wales,AUS,Australia,6252.0815,http://linked.data.gov.au/dataset/asgsed3/IARE/105013
+62,105014,Lachlan,105,Riverina - Orange,1,New South Wales,AUS,Australia,15858.8502,http://linked.data.gov.au/dataset/asgsed3/IARE/105014
+63,105015,Lithgow - Oberon,105,Riverina - Orange,1,New South Wales,AUS,Australia,8257.3647,http://linked.data.gov.au/dataset/asgsed3/IARE/105015
+64,105016,Mudgee,105,Riverina - Orange,1,New South Wales,AUS,Australia,10961.8425,http://linked.data.gov.au/dataset/asgsed3/IARE/105016
+65,105017,Narrandera,105,Riverina - Orange,1,New South Wales,AUS,Australia,3809.1326,http://linked.data.gov.au/dataset/asgsed3/IARE/105017
+66,105018,Orange,105,Riverina - Orange,1,New South Wales,AUS,Australia,284.2159,http://linked.data.gov.au/dataset/asgsed3/IARE/105018
+67,105019,Tumut,105,Riverina - Orange,1,New South Wales,AUS,Australia,4654.0518,http://linked.data.gov.au/dataset/asgsed3/IARE/105019
+68,105020,Upper Murray,105,Riverina - Orange,1,New South Wales,AUS,Australia,18640.9476,http://linked.data.gov.au/dataset/asgsed3/IARE/105020
+69,105021,Wagga Wagga,105,Riverina - Orange,1,New South Wales,AUS,Australia,4884.5837,http://linked.data.gov.au/dataset/asgsed3/IARE/105021
+70,105022,Young,105,Riverina - Orange,1,New South Wales,AUS,Australia,2643.8843,http://linked.data.gov.au/dataset/asgsed3/IARE/105022
+71,106001,Bega Valley,106,South-Eastern NSW,1,New South Wales,AUS,Australia,7942.0818,http://linked.data.gov.au/dataset/asgsed3/IARE/106001
+72,106002,Eurobodalla,106,South-Eastern NSW,1,New South Wales,AUS,Australia,1922.4058,http://linked.data.gov.au/dataset/asgsed3/IARE/106002
+73,106003,Shoalhaven,106,South-Eastern NSW,1,New South Wales,AUS,Australia,4374.9473,http://linked.data.gov.au/dataset/asgsed3/IARE/106003
+74,106004,Snowy - Monaro,106,South-Eastern NSW,1,New South Wales,AUS,Australia,20661.6093,http://linked.data.gov.au/dataset/asgsed3/IARE/106004
+75,106005,Southern Tablelands,106,South-Eastern NSW,1,New South Wales,AUS,Australia,19881.9373,http://linked.data.gov.au/dataset/asgsed3/IARE/106005
+76,107001,Auburn,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,32.4768,http://linked.data.gov.au/dataset/asgsed3/IARE/107001
+77,107002,Baulkham Hills,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,400.4136,http://linked.data.gov.au/dataset/asgsed3/IARE/107002
+78,107003,Blacktown,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,240.1335,http://linked.data.gov.au/dataset/asgsed3/IARE/107003
+79,107004,Blue Mountains,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,942.4079,http://linked.data.gov.au/dataset/asgsed3/IARE/107004
+80,107005,Botany Bay,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,16.6527,http://linked.data.gov.au/dataset/asgsed3/IARE/107005
+81,107006,Camden,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,206.0613,http://linked.data.gov.au/dataset/asgsed3/IARE/107006
+82,107007,Campbelltown,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,334.7054,http://linked.data.gov.au/dataset/asgsed3/IARE/107007
+83,107008,Canterbury - Bankstown,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,110.7042,http://linked.data.gov.au/dataset/asgsed3/IARE/107008
+84,107009,Fairfield,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,129.2872,http://linked.data.gov.au/dataset/asgsed3/IARE/107009
+85,107010,Hawkesbury,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,2658.9641,http://linked.data.gov.au/dataset/asgsed3/IARE/107010
+86,107011,Holroyd,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,41.221,http://linked.data.gov.au/dataset/asgsed3/IARE/107011
+87,107012,Hornsby - Ku-ring-gai,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,551.6707,http://linked.data.gov.au/dataset/asgsed3/IARE/107012
+88,107013,Hunters Hill - Ryde,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,46.1915,http://linked.data.gov.au/dataset/asgsed3/IARE/107013
+89,107014,Hurstville - Kogarah,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,38.3058,http://linked.data.gov.au/dataset/asgsed3/IARE/107014
+90,107015,Kiama - Shellharbour,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,390.7982,http://linked.data.gov.au/dataset/asgsed3/IARE/107015
+91,107016,Leichhardt,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,10.6577,http://linked.data.gov.au/dataset/asgsed3/IARE/107016
+92,107017,Liverpool,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,274.596,http://linked.data.gov.au/dataset/asgsed3/IARE/107017
+93,107018,Lord Howe Island,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,16.2918,http://linked.data.gov.au/dataset/asgsed3/IARE/107018
+94,107019,Marrickville,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,16.6539,http://linked.data.gov.au/dataset/asgsed3/IARE/107019
+95,107020,Northern Beaches,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,254.2072,http://linked.data.gov.au/dataset/asgsed3/IARE/107020
+96,107021,Parramatta,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,60.3762,http://linked.data.gov.au/dataset/asgsed3/IARE/107021
+97,107022,Penrith,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,415.6188,http://linked.data.gov.au/dataset/asgsed3/IARE/107022
+98,107023,Randwick - La Perouse,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,36.331,http://linked.data.gov.au/dataset/asgsed3/IARE/107023
+99,107024,Rockdale,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,33.9677,http://linked.data.gov.au/dataset/asgsed3/IARE/107024
+100,107025,Sutherland Shire,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,296.251,http://linked.data.gov.au/dataset/asgsed3/IARE/107025
+101,107026,Sydney - City,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,26.3616,http://linked.data.gov.au/dataset/asgsed3/IARE/107026
+102,107027,Sydney - Inner West,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,48.9007,http://linked.data.gov.au/dataset/asgsed3/IARE/107027
+103,107028,Sydney - Lower North,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,52.0459,http://linked.data.gov.au/dataset/asgsed3/IARE/107028
+104,107029,Wollondilly,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,3390.8841,http://linked.data.gov.au/dataset/asgsed3/IARE/107029
+105,107030,Wollongong,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,404.1,http://linked.data.gov.au/dataset/asgsed3/IARE/107030
+106,107031,Woollahra - Waverley,107,Sydney - Wollongong,1,New South Wales,AUS,Australia,21.6295,http://linked.data.gov.au/dataset/asgsed3/IARE/107031
+107,194994,No usual address (NSW),194,No usual address (NSW),1,New South Wales,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/IARE/194994
+108,197997,Migratory - Offshore - Shipping (NSW),197,Migratory - Offshore - Shipping (NSW),1,New South Wales,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/IARE/197997
+109,201001,Brimbank,201,Melbourne,2,Victoria,AUS,Australia,123.3991,http://linked.data.gov.au/dataset/asgsed3/IARE/201001
+110,201002,Cardinia,201,Melbourne,2,Victoria,AUS,Australia,1283.289,http://linked.data.gov.au/dataset/asgsed3/IARE/201002
+111,201003,Craigieburn - Sunbury,201,Melbourne,2,Victoria,AUS,Australia,459.4733,http://linked.data.gov.au/dataset/asgsed3/IARE/201003
+112,201004,Cranbourne - Narre Warren,201,Melbourne,2,Victoria,AUS,Australia,409.4287,http://linked.data.gov.au/dataset/asgsed3/IARE/201004
+113,201005,Frankston,201,Melbourne,2,Victoria,AUS,Australia,220.9657,http://linked.data.gov.au/dataset/asgsed3/IARE/201005
+114,201006,Greater Dandenong,201,Melbourne,2,Victoria,AUS,Australia,129.5466,http://linked.data.gov.au/dataset/asgsed3/IARE/201006
+115,201007,Knox,201,Melbourne,2,Victoria,AUS,Australia,118.3018,http://linked.data.gov.au/dataset/asgsed3/IARE/201007
+116,201008,Maribyrnong - Moonee Valley,201,Melbourne,2,Victoria,AUS,Australia,74.3536,http://linked.data.gov.au/dataset/asgsed3/IARE/201008
+117,201009,Maroondah,201,Melbourne,2,Victoria,AUS,Australia,61.4097,http://linked.data.gov.au/dataset/asgsed3/IARE/201009
+118,201010,Melbourne - East,201,Melbourne,2,Victoria,AUS,Australia,161.5688,http://linked.data.gov.au/dataset/asgsed3/IARE/201010
+119,201011,Melbourne - North-East,201,Melbourne,2,Victoria,AUS,Australia,609.9052,http://linked.data.gov.au/dataset/asgsed3/IARE/201011
+120,201012,Melbourne - Port Phillip,201,Melbourne,2,Victoria,AUS,Australia,77.712,http://linked.data.gov.au/dataset/asgsed3/IARE/201012
+121,201013,Melton,201,Melbourne,2,Victoria,AUS,Australia,527.5374,http://linked.data.gov.au/dataset/asgsed3/IARE/201013
+122,201014,Monash,201,Melbourne,2,Victoria,AUS,Australia,81.4829,http://linked.data.gov.au/dataset/asgsed3/IARE/201014
+123,201015,Moreland - Broadmeadows,201,Melbourne,2,Victoria,AUS,Australia,95.3277,http://linked.data.gov.au/dataset/asgsed3/IARE/201015
+124,201016,Mornington Peninsula,201,Melbourne,2,Victoria,AUS,Australia,724.1681,http://linked.data.gov.au/dataset/asgsed3/IARE/201016
+125,201017,Northcote - Preston - Whittlesea,201,Melbourne,2,Victoria,AUS,Australia,543.165,http://linked.data.gov.au/dataset/asgsed3/IARE/201017
+126,201018,Whitehorse,201,Melbourne,2,Victoria,AUS,Australia,64.2757,http://linked.data.gov.au/dataset/asgsed3/IARE/201018
+127,201019,Wyndham - Altona,201,Melbourne,2,Victoria,AUS,Australia,606.3348,http://linked.data.gov.au/dataset/asgsed3/IARE/201019
+128,201020,Yarra Ranges,201,Melbourne,2,Victoria,AUS,Australia,2461.5792,http://linked.data.gov.au/dataset/asgsed3/IARE/201020
+129,202001,Ballarat,202,Victoria exc. Melbourne,2,Victoria,AUS,Australia,1200.4105,http://linked.data.gov.au/dataset/asgsed3/IARE/202001
+130,202002,Baw Baw,202,Victoria exc. Melbourne,2,Victoria,AUS,Australia,3996.3353,http://linked.data.gov.au/dataset/asgsed3/IARE/202002
+131,202003,Bendigo,202,Victoria exc. Melbourne,2,Victoria,AUS,Australia,3281.3322,http://linked.data.gov.au/dataset/asgsed3/IARE/202003
+132,202004,Campaspe - Shepparton - Moira,202,Victoria exc. Melbourne,2,Victoria,AUS,Australia,10933.8661,http://linked.data.gov.au/dataset/asgsed3/IARE/202004
+133,202005,Castlemaine - Kerang,202,Victoria exc. Melbourne,2,Victoria,AUS,Australia,22169.681,http://linked.data.gov.au/dataset/asgsed3/IARE/202005
+134,202006,Geelong - Queenscliff,202,Victoria exc. Melbourne,2,Victoria,AUS,Australia,1256.6038,http://linked.data.gov.au/dataset/asgsed3/IARE/202006
+135,202007,Gippsland,202,Victoria exc. Melbourne,2,Victoria,AUS,Australia,31757.9811,http://linked.data.gov.au/dataset/asgsed3/IARE/202007
+136,202008,Latrobe,202,Victoria exc. Melbourne,2,Victoria,AUS,Australia,1374.6943,http://linked.data.gov.au/dataset/asgsed3/IARE/202008
+137,202009,Macedon Ranges - Moorabool,202,Victoria exc. Melbourne,2,Victoria,AUS,Australia,3845.8889,http://linked.data.gov.au/dataset/asgsed3/IARE/202009
+138,202010,Mildura,202,Victoria exc. Melbourne,2,Victoria,AUS,Australia,22081.9206,http://linked.data.gov.au/dataset/asgsed3/IARE/202010
+139,202011,South Gippsland - Bass Coast,202,Victoria exc. Melbourne,2,Victoria,AUS,Australia,4424.0986,http://linked.data.gov.au/dataset/asgsed3/IARE/202011
+140,202012,South-West Central Victoria,202,Victoria exc. Melbourne,2,Victoria,AUS,Australia,25210.68,http://linked.data.gov.au/dataset/asgsed3/IARE/202012
+141,202013,Southern Grampians - Glenelg,202,Victoria exc. Melbourne,2,Victoria,AUS,Australia,12946.3914,http://linked.data.gov.au/dataset/asgsed3/IARE/202013
+142,202014,Swan Hill,202,Victoria exc. Melbourne,2,Victoria,AUS,Australia,6067.7652,http://linked.data.gov.au/dataset/asgsed3/IARE/202014
+143,202015,Upper Goulburn Valley,202,Victoria exc. Melbourne,2,Victoria,AUS,Australia,13613.5166,http://linked.data.gov.au/dataset/asgsed3/IARE/202015
+144,202016,Wallan - Seymour,202,Victoria exc. Melbourne,2,Victoria,AUS,Australia,2737.4083,http://linked.data.gov.au/dataset/asgsed3/IARE/202016
+145,202017,Warrnambool,202,Victoria exc. Melbourne,2,Victoria,AUS,Australia,182.6156,http://linked.data.gov.au/dataset/asgsed3/IARE/202017
+146,202018,Wimmera,202,Victoria exc. Melbourne,2,Victoria,AUS,Australia,33955.3042,http://linked.data.gov.au/dataset/asgsed3/IARE/202018
+147,202019,Wodonga,202,Victoria exc. Melbourne,2,Victoria,AUS,Australia,17626.5299,http://linked.data.gov.au/dataset/asgsed3/IARE/202019
+148,294994,No usual address (Vic.),294,No usual address (Vic.),2,Victoria,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/IARE/294994
+149,297997,Migratory - Offshore - Shipping (Vic.),297,Migratory - Offshore - Shipping (Vic.),2,Victoria,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/IARE/297997
+150,301001,Beaudesert - Boonah,301,Brisbane,3,Queensland,AUS,Australia,4251.8807,http://linked.data.gov.au/dataset/asgsed3/IARE/301001
+151,301002,Brisbane City,301,Brisbane,3,Queensland,AUS,Australia,1349.6002,http://linked.data.gov.au/dataset/asgsed3/IARE/301002
+152,301003,Caboolture,301,Brisbane,3,Queensland,AUS,Australia,1267.6014,http://linked.data.gov.au/dataset/asgsed3/IARE/301003
+153,301004,Caloundra,301,Brisbane,3,Queensland,AUS,Australia,1039.8549,http://linked.data.gov.au/dataset/asgsed3/IARE/301004
+154,301005,Esk - Kilcoy,301,Brisbane,3,Queensland,AUS,Australia,5370.6539,http://linked.data.gov.au/dataset/asgsed3/IARE/301005
+155,301006,Gatton - Laidley,301,Brisbane,3,Queensland,AUS,Australia,2271.785,http://linked.data.gov.au/dataset/asgsed3/IARE/301006
+156,301007,Gold Coast,301,Brisbane,3,Queensland,AUS,Australia,1333.386,http://linked.data.gov.au/dataset/asgsed3/IARE/301007
+157,301008,Ipswich,301,Brisbane,3,Queensland,AUS,Australia,1078.1043,http://linked.data.gov.au/dataset/asgsed3/IARE/301008
+158,301009,Logan,301,Brisbane,3,Queensland,AUS,Australia,958.1333,http://linked.data.gov.au/dataset/asgsed3/IARE/301009
+159,301010,Maroochy,301,Brisbane,3,Queensland,AUS,Australia,1177.2738,http://linked.data.gov.au/dataset/asgsed3/IARE/301010
+160,301011,Noosa,301,Brisbane,3,Queensland,AUS,Australia,868.7823,http://linked.data.gov.au/dataset/asgsed3/IARE/301011
+161,301012,Pine Rivers,301,Brisbane,3,Queensland,AUS,Australia,773.3947,http://linked.data.gov.au/dataset/asgsed3/IARE/301012
+162,301013,Redcliffe,301,Brisbane,3,Queensland,AUS,Australia,38.2742,http://linked.data.gov.au/dataset/asgsed3/IARE/301013
+163,301014,Redland,301,Brisbane,3,Queensland,AUS,Australia,537.1672,http://linked.data.gov.au/dataset/asgsed3/IARE/301014
+164,303001,Aurukun,303,Cape York,3,Queensland,AUS,Australia,7423.9891,http://linked.data.gov.au/dataset/asgsed3/IARE/303001
+165,303002,Cape York,303,Cape York,3,Queensland,AUS,Australia,107605.5509,http://linked.data.gov.au/dataset/asgsed3/IARE/303002
+166,303003,Cooktown,303,Cape York,3,Queensland,AUS,Australia,24.4864,http://linked.data.gov.au/dataset/asgsed3/IARE/303003
+167,303004,Hope Vale,303,Cape York,3,Queensland,AUS,Australia,1111.7099,http://linked.data.gov.au/dataset/asgsed3/IARE/303004
+168,303005,Kowanyama,303,Cape York,3,Queensland,AUS,Australia,2555.3325,http://linked.data.gov.au/dataset/asgsed3/IARE/303005
+169,303006,Lockhart River,303,Cape York,3,Queensland,AUS,Australia,4200.782,http://linked.data.gov.au/dataset/asgsed3/IARE/303006
+170,303007,Mapoon - Napranum - Weipa,303,Cape York,3,Queensland,AUS,Australia,33.1158,http://linked.data.gov.au/dataset/asgsed3/IARE/303007
+171,303008,Northern Peninsula Area,303,Cape York,3,Queensland,AUS,Australia,1546.7024,http://linked.data.gov.au/dataset/asgsed3/IARE/303008
+172,303009,Pormpuraaw,303,Cape York,3,Queensland,AUS,Australia,4395.3654,http://linked.data.gov.au/dataset/asgsed3/IARE/303009
+173,304001,Boulia - Diamantina - Winton,304,Mount Isa,3,Queensland,AUS,Australia,209442.3811,http://linked.data.gov.au/dataset/asgsed3/IARE/304001
+174,304002,Carpentaria - Burke - Mornington,304,Mount Isa,3,Queensland,AUS,Australia,114443.5786,http://linked.data.gov.au/dataset/asgsed3/IARE/304002
+175,304003,Cloncurry - McKinlay,304,Mount Isa,3,Queensland,AUS,Australia,88708.0584,http://linked.data.gov.au/dataset/asgsed3/IARE/304003
+176,304004,Mount Isa,304,Mount Isa,3,Queensland,AUS,Australia,36149.1996,http://linked.data.gov.au/dataset/asgsed3/IARE/304004
+177,305001,Banana,305,Rockhampton,3,Queensland,AUS,Australia,28550.1865,http://linked.data.gov.au/dataset/asgsed3/IARE/305001
+178,305002,Barcaldine - Blackall - Longreach,305,Rockhampton,3,Queensland,AUS,Australia,124492.1462,http://linked.data.gov.au/dataset/asgsed3/IARE/305002
+179,305003,Bundaberg,305,Rockhampton,3,Queensland,AUS,Australia,6431.0889,http://linked.data.gov.au/dataset/asgsed3/IARE/305003
+180,305004,Central Capricorn,305,Rockhampton,3,Queensland,AUS,Australia,60225.3937,http://linked.data.gov.au/dataset/asgsed3/IARE/305004
+181,305005,Fraser Coast,305,Rockhampton,3,Queensland,AUS,Australia,7004.5083,http://linked.data.gov.au/dataset/asgsed3/IARE/305005
+182,305006,Gladstone,305,Rockhampton,3,Queensland,AUS,Australia,10484.2861,http://linked.data.gov.au/dataset/asgsed3/IARE/305006
+183,305007,Nebo - Clermont,305,Rockhampton,3,Queensland,AUS,Australia,58707.9192,http://linked.data.gov.au/dataset/asgsed3/IARE/305007
+184,305008,North Burnett,305,Rockhampton,3,Queensland,AUS,Australia,19669.8489,http://linked.data.gov.au/dataset/asgsed3/IARE/305008
+185,305009,Rockhampton - Yeppoon,305,Rockhampton,3,Queensland,AUS,Australia,18328.1353,http://linked.data.gov.au/dataset/asgsed3/IARE/305009
+186,306001,Balonne,306,Toowoomba - Roma,3,Queensland,AUS,Australia,31104.0851,http://linked.data.gov.au/dataset/asgsed3/IARE/306001
+187,306002,Bulloo - Quilpie - Barcoo,306,Toowoomba - Roma,3,Queensland,AUS,Australia,202966.8343,http://linked.data.gov.au/dataset/asgsed3/IARE/306002
+188,306003,Cherbourg,306,Toowoomba - Roma,3,Queensland,AUS,Australia,31.6002,http://linked.data.gov.au/dataset/asgsed3/IARE/306003
+189,306004,Cooloola - Gympie,306,Toowoomba - Roma,3,Queensland,AUS,Australia,3714.1975,http://linked.data.gov.au/dataset/asgsed3/IARE/306004
+190,306005,Dalby,306,Toowoomba - Roma,3,Queensland,AUS,Australia,28.0063,http://linked.data.gov.au/dataset/asgsed3/IARE/306005
+191,306006,Goondiwindi - Stanthorpe,306,Toowoomba - Roma,3,Queensland,AUS,Australia,21044.3161,http://linked.data.gov.au/dataset/asgsed3/IARE/306006
+192,306007,Jondaryan - Oakey,306,Toowoomba - Roma,3,Queensland,AUS,Australia,1844.4963,http://linked.data.gov.au/dataset/asgsed3/IARE/306007
+193,306008,Maranoa - Roma - Mitchell,306,Toowoomba - Roma,3,Queensland,AUS,Australia,58704.3911,http://linked.data.gov.au/dataset/asgsed3/IARE/306008
+194,306009,Murgon,306,Toowoomba - Roma,3,Queensland,AUS,Australia,579.8277,http://linked.data.gov.au/dataset/asgsed3/IARE/306009
+195,306010,Murweh,306,Toowoomba - Roma,3,Queensland,AUS,Australia,40699.7586,http://linked.data.gov.au/dataset/asgsed3/IARE/306010
+196,306011,Nanango - Kilkivan,306,Toowoomba - Roma,3,Queensland,AUS,Australia,4909.773,http://linked.data.gov.au/dataset/asgsed3/IARE/306011
+197,306012,Paroo,306,Toowoomba - Roma,3,Queensland,AUS,Australia,47614.9225,http://linked.data.gov.au/dataset/asgsed3/IARE/306012
+198,306013,South Burnett,306,Toowoomba - Roma,3,Queensland,AUS,Australia,6161.828,http://linked.data.gov.au/dataset/asgsed3/IARE/306013
+199,306014,Southern Downs,306,Toowoomba - Roma,3,Queensland,AUS,Australia,4477.8468,http://linked.data.gov.au/dataset/asgsed3/IARE/306014
+200,306015,Toowoomba - Central,306,Toowoomba - Roma,3,Queensland,AUS,Australia,142.3219,http://linked.data.gov.au/dataset/asgsed3/IARE/306015
+201,306016,Toowoomba - North,306,Toowoomba - Roma,3,Queensland,AUS,Australia,4024.562,http://linked.data.gov.au/dataset/asgsed3/IARE/306016
+202,306017,Toowoomba - South,306,Toowoomba - Roma,3,Queensland,AUS,Australia,6934.1341,http://linked.data.gov.au/dataset/asgsed3/IARE/306017
+203,306018,Western Downs,306,Toowoomba - Roma,3,Queensland,AUS,Australia,38771.1032,http://linked.data.gov.au/dataset/asgsed3/IARE/306018
+204,307001,Kaiwalagal - Inner Islands,307,Torres Strait,3,Queensland,AUS,Australia,330.9326,http://linked.data.gov.au/dataset/asgsed3/IARE/307001
+205,307002,Kalakawal - Top Western Islands,307,Torres Strait,3,Queensland,AUS,Australia,207.8099,http://linked.data.gov.au/dataset/asgsed3/IARE/307002
+206,307003,Kalalagal - Western Islands,307,Torres Strait,3,Queensland,AUS,Australia,296.4619,http://linked.data.gov.au/dataset/asgsed3/IARE/307003
+207,307004,Kulkalgal - Central Islands,307,Torres Strait,3,Queensland,AUS,Australia,32.6846,http://linked.data.gov.au/dataset/asgsed3/IARE/307004
+208,307005,Meriam - Eastern Islands,307,Torres Strait,3,Queensland,AUS,Australia,11.2617,http://linked.data.gov.au/dataset/asgsed3/IARE/307005
+209,309001,Atherton,309,Cairns - Atherton,3,Queensland,AUS,Australia,622.4878,http://linked.data.gov.au/dataset/asgsed3/IARE/309001
+210,309002,Cairns,309,Cairns - Atherton,3,Queensland,AUS,Australia,327.99,http://linked.data.gov.au/dataset/asgsed3/IARE/309002
+211,309003,Cairns - Far North Coast,309,Cairns - Atherton,3,Queensland,AUS,Australia,619.2254,http://linked.data.gov.au/dataset/asgsed3/IARE/309003
+212,309004,Cairns - Southern Hinterlands,309,Cairns - Atherton,3,Queensland,AUS,Australia,1750.7014,http://linked.data.gov.au/dataset/asgsed3/IARE/309004
+213,309005,Eacham,309,Cairns - Atherton,3,Queensland,AUS,Australia,867.6794,http://linked.data.gov.au/dataset/asgsed3/IARE/309005
+214,309006,Herberton - Ravenshoe,309,Cairns - Atherton,3,Queensland,AUS,Australia,9566.224,http://linked.data.gov.au/dataset/asgsed3/IARE/309006
+215,309007,Innisfail - Johnstone,309,Cairns - Atherton,3,Queensland,AUS,Australia,1495.9266,http://linked.data.gov.au/dataset/asgsed3/IARE/309007
+216,309008,Kuranda - Croydon,309,Cairns - Atherton,3,Queensland,AUS,Australia,122151.1909,http://linked.data.gov.au/dataset/asgsed3/IARE/309008
+217,309009,Mareeba,309,Cairns - Atherton,3,Queensland,AUS,Australia,20.5466,http://linked.data.gov.au/dataset/asgsed3/IARE/309009
+218,309010,Tully - Cardwell - Jumbun,309,Cairns - Atherton,3,Queensland,AUS,Australia,3055.5178,http://linked.data.gov.au/dataset/asgsed3/IARE/309010
+219,309011,Wujal Wujal and Outstations,309,Cairns - Atherton,3,Queensland,AUS,Australia,1803.0278,http://linked.data.gov.au/dataset/asgsed3/IARE/309011
+220,309012,Yarrabah,309,Cairns - Atherton,3,Queensland,AUS,Australia,158.8381,http://linked.data.gov.au/dataset/asgsed3/IARE/309012
+221,310001,Bowen (Qld),310,Townsville - Mackay,3,Queensland,AUS,Australia,21144.8646,http://linked.data.gov.au/dataset/asgsed3/IARE/310001
+222,310002,Burdekin - Ayr,310,Townsville - Mackay,3,Queensland,AUS,Australia,4948.4594,http://linked.data.gov.au/dataset/asgsed3/IARE/310002
+223,310003,Charters Towers,310,Townsville - Mackay,3,Queensland,AUS,Australia,41.8593,http://linked.data.gov.au/dataset/asgsed3/IARE/310003
+224,310004,Flinders - Richmond - Dalrymple,310,Townsville - Mackay,3,Queensland,AUS,Australia,136120.9906,http://linked.data.gov.au/dataset/asgsed3/IARE/310004
+225,310005,Ingham - Hinchinbrook,310,Townsville - Mackay,3,Queensland,AUS,Australia,2807.1889,http://linked.data.gov.au/dataset/asgsed3/IARE/310005
+226,310006,Mackay,310,Townsville - Mackay,3,Queensland,AUS,Australia,238.8744,http://linked.data.gov.au/dataset/asgsed3/IARE/310006
+227,310007,Mackay - Surrounds,310,Townsville - Mackay,3,Queensland,AUS,Australia,2610.6357,http://linked.data.gov.au/dataset/asgsed3/IARE/310007
+228,310008,Mirani,310,Townsville - Mackay,3,Queensland,AUS,Australia,3324.1403,http://linked.data.gov.au/dataset/asgsed3/IARE/310008
+229,310009,Palm Island,310,Townsville - Mackay,3,Queensland,AUS,Australia,71.9928,http://linked.data.gov.au/dataset/asgsed3/IARE/310009
+230,310010,Proserpine - Whitsunday,310,Townsville - Mackay,3,Queensland,AUS,Australia,2674.1083,http://linked.data.gov.au/dataset/asgsed3/IARE/310010
+231,310011,Sarina,310,Townsville - Mackay,3,Queensland,AUS,Australia,1439.6459,http://linked.data.gov.au/dataset/asgsed3/IARE/310011
+232,310012,Thuringowa,310,Townsville - Mackay,3,Queensland,AUS,Australia,242.2022,http://linked.data.gov.au/dataset/asgsed3/IARE/310012
+233,310013,Townsville,310,Townsville - Mackay,3,Queensland,AUS,Australia,166.1413,http://linked.data.gov.au/dataset/asgsed3/IARE/310013
+234,310014,Townsville - Surrounds,310,Townsville - Mackay,3,Queensland,AUS,Australia,3417.9488,http://linked.data.gov.au/dataset/asgsed3/IARE/310014
+235,394994,No usual address (Qld),394,No usual address (Qld),3,Queensland,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/IARE/394994
+236,397997,Migratory - Offshore - Shipping (Qld),397,Migratory - Offshore - Shipping (Qld),3,Queensland,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/IARE/397997
+237,401001,Adelaide - Prospect - Walkerville,401,Adelaide,4,South Australia,AUS,Australia,26.8948,http://linked.data.gov.au/dataset/asgsed3/IARE/401001
+238,401002,Adelaide Hills - Mount Barker,401,Adelaide,4,South Australia,AUS,Australia,1387.0378,http://linked.data.gov.au/dataset/asgsed3/IARE/401002
+239,401003,Barossa,401,Adelaide,4,South Australia,AUS,Australia,3101.755,http://linked.data.gov.au/dataset/asgsed3/IARE/401003
+240,401004,Berri - Barmera,401,Adelaide,4,South Australia,AUS,Australia,792.0857,http://linked.data.gov.au/dataset/asgsed3/IARE/401004
+241,401005,Campbelltown - Norwood,401,Adelaide,4,South Australia,AUS,Australia,41.5506,http://linked.data.gov.au/dataset/asgsed3/IARE/401005
+242,401006,Charles Sturt,401,Adelaide,4,South Australia,AUS,Australia,54.4513,http://linked.data.gov.au/dataset/asgsed3/IARE/401006
+243,401007,Fleurieu - Kangaroo Island,401,Adelaide,4,South Australia,AUS,Australia,7363.5869,http://linked.data.gov.au/dataset/asgsed3/IARE/401007
+244,401008,Gawler,401,Adelaide,4,South Australia,AUS,Australia,42.2619,http://linked.data.gov.au/dataset/asgsed3/IARE/401008
+245,401009,Holdfast Bay - West Torrens,401,Adelaide,4,South Australia,AUS,Australia,51.1175,http://linked.data.gov.au/dataset/asgsed3/IARE/401009
+246,401010,Loxton - Waikerie - Mid Murray,401,Adelaide,4,South Australia,AUS,Australia,13954.7067,http://linked.data.gov.au/dataset/asgsed3/IARE/401010
+247,401011,Marion,401,Adelaide,4,South Australia,AUS,Australia,55.5367,http://linked.data.gov.au/dataset/asgsed3/IARE/401011
+248,401012,Murray Bridge,401,Adelaide,4,South Australia,AUS,Australia,1925.7329,http://linked.data.gov.au/dataset/asgsed3/IARE/401012
+249,401013,Murray Mallee,401,Adelaide,4,South Australia,AUS,Australia,19193.6315,http://linked.data.gov.au/dataset/asgsed3/IARE/401013
+250,401014,Onkaparinga,401,Adelaide,4,South Australia,AUS,Australia,518.1954,http://linked.data.gov.au/dataset/asgsed3/IARE/401014
+251,401015,Playford,401,Adelaide,4,South Australia,AUS,Australia,346.7279,http://linked.data.gov.au/dataset/asgsed3/IARE/401015
+252,401016,Port Adelaide - Enfield,401,Adelaide,4,South Australia,AUS,Australia,100.6388,http://linked.data.gov.au/dataset/asgsed3/IARE/401016
+253,401017,Renmark Paringa,401,Adelaide,4,South Australia,AUS,Australia,916.442,http://linked.data.gov.au/dataset/asgsed3/IARE/401017
+254,401018,Salisbury,401,Adelaide,4,South Australia,AUS,Australia,159.2354,http://linked.data.gov.au/dataset/asgsed3/IARE/401018
+255,401019,South-East,401,Adelaide,4,South Australia,AUS,Australia,21336.388,http://linked.data.gov.au/dataset/asgsed3/IARE/401019
+256,401020,Tea Tree Gully,401,Adelaide,4,South Australia,AUS,Australia,94.2993,http://linked.data.gov.au/dataset/asgsed3/IARE/401020
+257,401021,Unley - Burnside - Mitcham,401,Adelaide,4,South Australia,AUS,Australia,117.3354,http://linked.data.gov.au/dataset/asgsed3/IARE/401021
+258,401022,Wakefield - Clare and Gilbert Valleys,401,Adelaide,4,South Australia,AUS,Australia,5327.9234,http://linked.data.gov.au/dataset/asgsed3/IARE/401022
+259,401023,Yorke Peninsula,401,Adelaide,4,South Australia,AUS,Australia,8393.6768,http://linked.data.gov.au/dataset/asgsed3/IARE/401023
+260,402001,Anangu Pitjantjatjara,402,Port Augusta,4,South Australia,AUS,Australia,102359.1511,http://linked.data.gov.au/dataset/asgsed3/IARE/402001
+261,402002,Coober Pedy - Umoona,402,Port Augusta,4,South Australia,AUS,Australia,77.6795,http://linked.data.gov.au/dataset/asgsed3/IARE/402002
+262,402003,Eyre,402,Port Augusta,4,South Australia,AUS,Australia,514889.2223,http://linked.data.gov.au/dataset/asgsed3/IARE/402003
+263,402004,Flinders,402,Port Augusta,4,South Australia,AUS,Australia,25228.1155,http://linked.data.gov.au/dataset/asgsed3/IARE/402004
+264,402005,Port Augusta,402,Port Augusta,4,South Australia,AUS,Australia,1157.9905,http://linked.data.gov.au/dataset/asgsed3/IARE/402005
+265,402006,Whyalla,402,Port Augusta,4,South Australia,AUS,Australia,24877.4725,http://linked.data.gov.au/dataset/asgsed3/IARE/402006
+266,403001,Ceduna,403,Port Lincoln - Ceduna,4,South Australia,AUS,Australia,5163.8798,http://linked.data.gov.au/dataset/asgsed3/IARE/403001
+267,403002,Ceduna - West Coast,403,Port Lincoln - Ceduna,4,South Australia,AUS,Australia,225136.3595,http://linked.data.gov.au/dataset/asgsed3/IARE/403002
+268,403003,Port Lincoln,403,Port Lincoln - Ceduna,4,South Australia,AUS,Australia,40.3378,http://linked.data.gov.au/dataset/asgsed3/IARE/403003
+269,494994,No usual address (SA),494,No usual address (SA),4,South Australia,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/IARE/494994
+270,497997,Migratory - Offshore - Shipping (SA),497,Migratory - Offshore - Shipping (SA),4,South Australia,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/IARE/497997
+271,501001,Broome,501,Broome,5,Western Australia,AUS,Australia,260.6855,http://linked.data.gov.au/dataset/asgsed3/IARE/501001
+272,501002,Broome - Surrounds,501,Broome,5,Western Australia,AUS,Australia,55132.8625,http://linked.data.gov.au/dataset/asgsed3/IARE/501002
+273,502001,Carnarvon - Mungullah,502,Geraldton,5,Western Australia,AUS,Australia,78.2669,http://linked.data.gov.au/dataset/asgsed3/IARE/502001
+274,502002,Carnegie South - Mount Magnet,502,Geraldton,5,Western Australia,AUS,Australia,133041.1613,http://linked.data.gov.au/dataset/asgsed3/IARE/502002
+275,502003,Central West Coast,502,Geraldton,5,Western Australia,AUS,Australia,26144.4727,http://linked.data.gov.au/dataset/asgsed3/IARE/502003
+276,502004,Geraldton,502,Geraldton,5,Western Australia,AUS,Australia,289.575,http://linked.data.gov.au/dataset/asgsed3/IARE/502004
+277,502005,Irwin - Morawa,502,Geraldton,5,Western Australia,AUS,Australia,25833.66,http://linked.data.gov.au/dataset/asgsed3/IARE/502005
+278,502006,Meekathara - Karalundi,502,Geraldton,5,Western Australia,AUS,Australia,100188.5478,http://linked.data.gov.au/dataset/asgsed3/IARE/502006
+279,502007,Shark Bay - Coral Bay - Upper Gascoyne,502,Geraldton,5,Western Australia,AUS,Australia,128507.8609,http://linked.data.gov.au/dataset/asgsed3/IARE/502007
+280,503001,Esperance - Ravensthorpe,503,Kalgoorlie,5,Western Australia,AUS,Australia,55660.6599,http://linked.data.gov.au/dataset/asgsed3/IARE/503001
+281,503002,Kalgoorlie - Dundas - Goldfields,503,Kalgoorlie,5,Western Australia,AUS,Australia,218581.6465,http://linked.data.gov.au/dataset/asgsed3/IARE/503002
+282,503003,Kalgoorlie - Ningia Mia,503,Kalgoorlie,5,Western Australia,AUS,Australia,102.71,http://linked.data.gov.au/dataset/asgsed3/IARE/503003
+283,503004,Laverton - Ngaanyatjarraku,503,Kalgoorlie,5,Western Australia,AUS,Australia,339788.4285,http://linked.data.gov.au/dataset/asgsed3/IARE/503004
+284,503005,Menzies - Leonora,503,Kalgoorlie,5,Western Australia,AUS,Australia,156030.4802,http://linked.data.gov.au/dataset/asgsed3/IARE/503005
+285,503006,Warburton,503,Kalgoorlie,5,Western Australia,AUS,Australia,21.5057,http://linked.data.gov.au/dataset/asgsed3/IARE/503006
+286,503007,Wiluna,503,Kalgoorlie,5,Western Australia,AUS,Australia,181297.3382,http://linked.data.gov.au/dataset/asgsed3/IARE/503007
+287,504001,Argyle - Warmun,504,Kununurra,5,Western Australia,AUS,Australia,19028.6518,http://linked.data.gov.au/dataset/asgsed3/IARE/504001
+288,504002,Great Sandy Desert,504,Kununurra,5,Western Australia,AUS,Australia,104459.4731,http://linked.data.gov.au/dataset/asgsed3/IARE/504002
+289,504003,Halls Creek,504,Kununurra,5,Western Australia,AUS,Australia,45.1727,http://linked.data.gov.au/dataset/asgsed3/IARE/504003
+290,504004,Halls Creek - Surrounds,504,Kununurra,5,Western Australia,AUS,Australia,30820.4286,http://linked.data.gov.au/dataset/asgsed3/IARE/504004
+291,504005,Kalumburu,504,Kununurra,5,Western Australia,AUS,Australia,4.0475,http://linked.data.gov.au/dataset/asgsed3/IARE/504005
+292,504006,Kununurra,504,Kununurra,5,Western Australia,AUS,Australia,14.9384,http://linked.data.gov.au/dataset/asgsed3/IARE/504006
+293,504007,North Kimberley,504,Kununurra,5,Western Australia,AUS,Australia,98677.6764,http://linked.data.gov.au/dataset/asgsed3/IARE/504007
+294,504008,Wyndham,504,Kununurra,5,Western Australia,AUS,Australia,2.2361,http://linked.data.gov.au/dataset/asgsed3/IARE/504008
+295,505001,Armadale,505,Perth,5,Western Australia,AUS,Australia,559.5258,http://linked.data.gov.au/dataset/asgsed3/IARE/505001
+296,505002,Bassendean,505,Perth,5,Western Australia,AUS,Australia,10.3449,http://linked.data.gov.au/dataset/asgsed3/IARE/505002
+297,505003,Bayswater,505,Perth,5,Western Australia,AUS,Australia,32.4775,http://linked.data.gov.au/dataset/asgsed3/IARE/505003
+298,505004,Belmont,505,Perth,5,Western Australia,AUS,Australia,25.9414,http://linked.data.gov.au/dataset/asgsed3/IARE/505004
+299,505005,Canning,505,Perth,5,Western Australia,AUS,Australia,65.0429,http://linked.data.gov.au/dataset/asgsed3/IARE/505005
+300,505006,Cockburn,505,Perth,5,Western Australia,AUS,Australia,179.849,http://linked.data.gov.au/dataset/asgsed3/IARE/505006
+301,505007,Fremantle,505,Perth,5,Western Australia,AUS,Australia,22.4276,http://linked.data.gov.au/dataset/asgsed3/IARE/505007
+302,505008,Gosnells,505,Perth,5,Western Australia,AUS,Australia,127.2976,http://linked.data.gov.au/dataset/asgsed3/IARE/505008
+303,505009,Joondalup,505,Perth,5,Western Australia,AUS,Australia,99.017,http://linked.data.gov.au/dataset/asgsed3/IARE/505009
+304,505010,Kalamunda,505,Perth,5,Western Australia,AUS,Australia,283.8001,http://linked.data.gov.au/dataset/asgsed3/IARE/505010
+305,505011,Kwinana,505,Perth,5,Western Australia,AUS,Australia,120.0123,http://linked.data.gov.au/dataset/asgsed3/IARE/505011
+306,505012,Melville,505,Perth,5,Western Australia,AUS,Australia,53.4537,http://linked.data.gov.au/dataset/asgsed3/IARE/505012
+307,505013,Mundaring - Swan View,505,Perth,5,Western Australia,AUS,Australia,683.1714,http://linked.data.gov.au/dataset/asgsed3/IARE/505013
+308,505014,Perth,505,Perth,5,Western Australia,AUS,Australia,79.7179,http://linked.data.gov.au/dataset/asgsed3/IARE/505014
+309,505015,Rockingham,505,Perth,5,Western Australia,AUS,Australia,245.2759,http://linked.data.gov.au/dataset/asgsed3/IARE/505015
+310,505016,Serpentine - Jarrahdale,505,Perth,5,Western Australia,AUS,Australia,904.7635,http://linked.data.gov.au/dataset/asgsed3/IARE/505016
+311,505017,South Perth - Victoria Park,505,Perth,5,Western Australia,AUS,Australia,37.2985,http://linked.data.gov.au/dataset/asgsed3/IARE/505017
+312,505018,Stirling,505,Perth,5,Western Australia,AUS,Australia,111.8624,http://linked.data.gov.au/dataset/asgsed3/IARE/505018
+313,505019,Swan,505,Perth,5,Western Australia,AUS,Australia,1056.7602,http://linked.data.gov.au/dataset/asgsed3/IARE/505019
+314,505020,Wanneroo - North-East,505,Perth,5,Western Australia,AUS,Australia,561.621,http://linked.data.gov.au/dataset/asgsed3/IARE/505020
+315,505021,Yanchep - Two Rocks,505,Perth,5,Western Australia,AUS,Australia,124.0486,http://linked.data.gov.au/dataset/asgsed3/IARE/505021
+316,506001,East Pilbara,506,South Hedland,5,Western Australia,AUS,Australia,372295.6721,http://linked.data.gov.au/dataset/asgsed3/IARE/506001
+317,506002,Exmouth - Ashburton,506,South Hedland,5,Western Australia,AUS,Australia,107305.5209,http://linked.data.gov.au/dataset/asgsed3/IARE/506002
+318,506003,Karratha,506,South Hedland,5,Western Australia,AUS,Australia,134.2041,http://linked.data.gov.au/dataset/asgsed3/IARE/506003
+319,506004,Port Hedland,506,South Hedland,5,Western Australia,AUS,Australia,18416.3139,http://linked.data.gov.au/dataset/asgsed3/IARE/506004
+320,506005,Roebourne - Wickham,506,South Hedland,5,Western Australia,AUS,Australia,15104.8531,http://linked.data.gov.au/dataset/asgsed3/IARE/506005
+321,507001,Albany,507,South-Western WA,5,Western Australia,AUS,Australia,4308.458,http://linked.data.gov.au/dataset/asgsed3/IARE/507001
+322,507002,Avon,507,South-Western WA,5,Western Australia,AUS,Australia,33209.435,http://linked.data.gov.au/dataset/asgsed3/IARE/507002
+323,507003,Bunbury,507,South-Western WA,5,Western Australia,AUS,Australia,65.4565,http://linked.data.gov.au/dataset/asgsed3/IARE/507003
+324,507004,Busselton,507,South-Western WA,5,Western Australia,AUS,Australia,1423.304,http://linked.data.gov.au/dataset/asgsed3/IARE/507004
+325,507005,Campion,507,South-Western WA,5,Western Australia,AUS,Australia,60004.4862,http://linked.data.gov.au/dataset/asgsed3/IARE/507005
+326,507006,Harvey and Surrounds,507,South-Western WA,5,Western Australia,AUS,Australia,1727.9415,http://linked.data.gov.au/dataset/asgsed3/IARE/507006
+327,507007,Hotham - Kulin,507,South-Western WA,5,Western Australia,AUS,Australia,36107.0275,http://linked.data.gov.au/dataset/asgsed3/IARE/507007
+328,507008,Kojonup - Gnowangerup,507,South-Western WA,5,Western Australia,AUS,Australia,23567.3248,http://linked.data.gov.au/dataset/asgsed3/IARE/507008
+329,507009,Mandurah,507,South-Western WA,5,Western Australia,AUS,Australia,224.0036,http://linked.data.gov.au/dataset/asgsed3/IARE/507009
+330,507010,Manjimup - Denmark - Plantagenet,507,South-Western WA,5,Western Australia,AUS,Australia,14394.9541,http://linked.data.gov.au/dataset/asgsed3/IARE/507010
+331,507011,Moora - Chittering,507,South-Western WA,5,Western Australia,AUS,Australia,17453.8724,http://linked.data.gov.au/dataset/asgsed3/IARE/507011
+332,507012,Murray - Waroona - Boddington,507,South-Western WA,5,Western Australia,AUS,Australia,4387.5115,http://linked.data.gov.au/dataset/asgsed3/IARE/507012
+333,507013,Narrogin - Wagin - Katanning,507,South-Western WA,5,Western Australia,AUS,Australia,12556.3749,http://linked.data.gov.au/dataset/asgsed3/IARE/507013
+334,507014,Northam,507,South-Western WA,5,Western Australia,AUS,Australia,26.7836,http://linked.data.gov.au/dataset/asgsed3/IARE/507014
+335,507015,South-West,507,South-Western WA,5,Western Australia,AUS,Australia,13723.8738,http://linked.data.gov.au/dataset/asgsed3/IARE/507015
+336,508001,Derby - Mowanjum,508,West Kimberley,5,Western Australia,AUS,Australia,22.3537,http://linked.data.gov.au/dataset/asgsed3/IARE/508001
+337,508003,Fitzroy River,508,West Kimberley,5,Western Australia,AUS,Australia,32287.8531,http://linked.data.gov.au/dataset/asgsed3/IARE/508003
+338,508005,Fitzroy Crossing,508,West Kimberley,5,Western Australia,AUS,Australia,9032.5999,http://linked.data.gov.au/dataset/asgsed3/IARE/508005
+339,508006,Outer Derby - West Kimberley,508,West Kimberley,5,Western Australia,AUS,Australia,69456.1089,http://linked.data.gov.au/dataset/asgsed3/IARE/508006
+340,594994,No usual address (WA),594,No usual address (WA),5,Western Australia,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/IARE/594994
+341,597997,Migratory - Offshore - Shipping (WA),597,Migratory - Offshore - Shipping (WA),5,Western Australia,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/IARE/597997
+342,601001,Central Coast - Devonport,601,Tasmania,6,Tasmania,AUS,Australia,1066.2031,http://linked.data.gov.au/dataset/asgsed3/IARE/601001
+343,601002,Central Tasmania,601,Tasmania,6,Tasmania,AUS,Australia,23726.8531,http://linked.data.gov.au/dataset/asgsed3/IARE/601002
+344,601003,Greater Hobart,601,Tasmania,6,Tasmania,AUS,Australia,773.9498,http://linked.data.gov.au/dataset/asgsed3/IARE/601003
+345,601004,Huon Valley,601,Tasmania,6,Tasmania,AUS,Australia,1749.2174,http://linked.data.gov.au/dataset/asgsed3/IARE/601004
+346,601005,Kingborough,601,Tasmania,6,Tasmania,AUS,Australia,685.8432,http://linked.data.gov.au/dataset/asgsed3/IARE/601005
+347,601006,Launceston,601,Tasmania,6,Tasmania,AUS,Australia,1425.3069,http://linked.data.gov.au/dataset/asgsed3/IARE/601006
+348,601007,Meander Valley - Kentish,601,Tasmania,6,Tasmania,AUS,Australia,4549.1786,http://linked.data.gov.au/dataset/asgsed3/IARE/601007
+349,601008,Tasmania - North-East Coast,601,Tasmania,6,Tasmania,AUS,Australia,9248.6529,http://linked.data.gov.au/dataset/asgsed3/IARE/601008
+350,601009,Tasmania - South-East Coast,601,Tasmania,6,Tasmania,AUS,Australia,3794.4919,http://linked.data.gov.au/dataset/asgsed3/IARE/601009
+351,601010,Tasmania - West Coast,601,Tasmania,6,Tasmania,AUS,Australia,19723.7909,http://linked.data.gov.au/dataset/asgsed3/IARE/601010
+352,601011,West Tamar - Latrobe,601,Tasmania,6,Tasmania,AUS,Australia,1274.0515,http://linked.data.gov.au/dataset/asgsed3/IARE/601011
+353,694994,No usual address (Tas.),694,No usual address (Tas.),6,Tasmania,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/IARE/694994
+354,697997,Migratory - Offshore - Shipping (Tas.),697,Migratory - Offshore - Shipping (Tas.),6,Tasmania,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/IARE/697997
+355,703001,Alawa - Brinkin - Nakara,703,Darwin,7,Northern Territory,AUS,Australia,3.926,http://linked.data.gov.au/dataset/asgsed3/IARE/703001
+356,703002,Anula - Wulagi,703,Darwin,7,Northern Territory,AUS,Australia,2.5807,http://linked.data.gov.au/dataset/asgsed3/IARE/703002
+357,703003,Coconut Grove - Ludmilla,703,Darwin,7,Northern Territory,AUS,Australia,5.3696,http://linked.data.gov.au/dataset/asgsed3/IARE/703003
+358,703004,Cox - Finniss - Coomalie,703,Darwin,7,Northern Territory,AUS,Australia,7822.6772,http://linked.data.gov.au/dataset/asgsed3/IARE/703004
+359,703005,Darwin - Inner Suburbs,703,Darwin,7,Northern Territory,AUS,Australia,16.5509,http://linked.data.gov.au/dataset/asgsed3/IARE/703005
+360,703006,Karama,703,Darwin,7,Northern Territory,AUS,Australia,2.0655,http://linked.data.gov.au/dataset/asgsed3/IARE/703006
+361,703007,Litchfield,703,Darwin,7,Northern Territory,AUS,Australia,2956.6023,http://linked.data.gov.au/dataset/asgsed3/IARE/703007
+362,703008,Malak,703,Darwin,7,Northern Territory,AUS,Australia,1.7493,http://linked.data.gov.au/dataset/asgsed3/IARE/703008
+363,703009,Marrara - Winnellie - Berrimah,703,Darwin,7,Northern Territory,AUS,Australia,80.7128,http://linked.data.gov.au/dataset/asgsed3/IARE/703009
+364,703010,Millner - Jingili,703,Darwin,7,Northern Territory,AUS,Australia,2.784,http://linked.data.gov.au/dataset/asgsed3/IARE/703010
+365,703011,Moil - Wagaman - Wanguri,703,Darwin,7,Northern Territory,AUS,Australia,2.7657,http://linked.data.gov.au/dataset/asgsed3/IARE/703011
+366,703012,Nightcliff - Rapid Creek,703,Darwin,7,Northern Territory,AUS,Australia,3.3688,http://linked.data.gov.au/dataset/asgsed3/IARE/703012
+367,703013,Palmerston,703,Darwin,7,Northern Territory,AUS,Australia,52.6559,http://linked.data.gov.au/dataset/asgsed3/IARE/703013
+368,703014,Tiwi - Lyons - Leanyer,703,Darwin,7,Northern Territory,AUS,Australia,36.5719,http://linked.data.gov.au/dataset/asgsed3/IARE/703014
+369,704001,Douglas-Daly,704,Jabiru - Tiwi,7,Northern Territory,AUS,Australia,34828.0715,http://linked.data.gov.au/dataset/asgsed3/IARE/704001
+370,704002,Kakadu - Marrakai - Jabiru,704,Jabiru - Tiwi,7,Northern Territory,AUS,Australia,25277.9881,http://linked.data.gov.au/dataset/asgsed3/IARE/704002
+371,704003,Maningrida and Outstations,704,Jabiru - Tiwi,7,Northern Territory,AUS,Australia,9769.0926,http://linked.data.gov.au/dataset/asgsed3/IARE/704003
+372,704004,North-West Arnhem,704,Jabiru - Tiwi,7,Northern Territory,AUS,Australia,23740.15,http://linked.data.gov.au/dataset/asgsed3/IARE/704004
+373,704005,Thamarrurr inc. Wadeye,704,Jabiru - Tiwi,7,Northern Territory,AUS,Australia,3373.7078,http://linked.data.gov.au/dataset/asgsed3/IARE/704005
+374,704006,Tiwi Islands,704,Jabiru - Tiwi,7,Northern Territory,AUS,Australia,7483.1661,http://linked.data.gov.au/dataset/asgsed3/IARE/704006
+375,705001,Borroloola,705,Katherine,7,Northern Territory,AUS,Australia,12.5634,http://linked.data.gov.au/dataset/asgsed3/IARE/705001
+376,705002,Daguragu - Kalkarindji and Outstations,705,Katherine,7,Northern Territory,AUS,Australia,50.4071,http://linked.data.gov.au/dataset/asgsed3/IARE/705002
+377,705003,Elsey - Roper,705,Katherine,7,Northern Territory,AUS,Australia,92949.7346,http://linked.data.gov.au/dataset/asgsed3/IARE/705003
+378,705004,Gulf,705,Katherine,7,Northern Territory,AUS,Australia,87835.0886,http://linked.data.gov.au/dataset/asgsed3/IARE/705004
+379,705005,Katherine Town,705,Katherine,7,Northern Territory,AUS,Australia,7416.9497,http://linked.data.gov.au/dataset/asgsed3/IARE/705005
+380,705006,Lajamanu,705,Katherine,7,Northern Territory,AUS,Australia,6.7088,http://linked.data.gov.au/dataset/asgsed3/IARE/705006
+381,705007,Ngukurr,705,Katherine,7,Northern Territory,AUS,Australia,12.0357,http://linked.data.gov.au/dataset/asgsed3/IARE/705007
+382,705008,Victoria River,705,Katherine,7,Northern Territory,AUS,Australia,106082.7948,http://linked.data.gov.au/dataset/asgsed3/IARE/705008
+383,705009,Walangeri,705,Katherine,7,Northern Territory,AUS,Australia,27468.9308,http://linked.data.gov.au/dataset/asgsed3/IARE/705009
+384,706001,Anindilyakwa (Groote),706,Nhulunbuy,7,Northern Territory,AUS,Australia,2609.0396,http://linked.data.gov.au/dataset/asgsed3/IARE/706001
+385,706002,Gapuwiyak and Outstations,706,Nhulunbuy,7,Northern Territory,AUS,Australia,6353.2809,http://linked.data.gov.au/dataset/asgsed3/IARE/706002
+386,706003,Laynhapuy - Gumatj Homelands,706,Nhulunbuy,7,Northern Territory,AUS,Australia,7906.127,http://linked.data.gov.au/dataset/asgsed3/IARE/706003
+387,706004,Marthakal Homelands - Galiwinku,706,Nhulunbuy,7,Northern Territory,AUS,Australia,5182.3657,http://linked.data.gov.au/dataset/asgsed3/IARE/706004
+388,706005,Nhulunbuy - Gunyangara,706,Nhulunbuy,7,Northern Territory,AUS,Australia,85.5034,http://linked.data.gov.au/dataset/asgsed3/IARE/706005
+389,706006,Numbulwar and Outstations,706,Nhulunbuy,7,Northern Territory,AUS,Australia,4418.5473,http://linked.data.gov.au/dataset/asgsed3/IARE/706006
+390,706007,Ramingining - Milingimbi and Outstations,706,Nhulunbuy,7,Northern Territory,AUS,Australia,11461.8449,http://linked.data.gov.au/dataset/asgsed3/IARE/706007
+391,706008,Yirrkala,706,Nhulunbuy,7,Northern Territory,AUS,Australia,8.4278,http://linked.data.gov.au/dataset/asgsed3/IARE/706008
+392,707001,Ali Curung,707,Tennant Creek,7,Northern Territory,AUS,Australia,443.1496,http://linked.data.gov.au/dataset/asgsed3/IARE/707001
+393,707002,Alpurrurulam,707,Tennant Creek,7,Northern Territory,AUS,Australia,9.9926,http://linked.data.gov.au/dataset/asgsed3/IARE/707002
+394,707003,Barkly,707,Tennant Creek,7,Northern Territory,AUS,Australia,302710.7842,http://linked.data.gov.au/dataset/asgsed3/IARE/707003
+395,707004,Elliott,707,Tennant Creek,7,Northern Territory,AUS,Australia,2.996,http://linked.data.gov.au/dataset/asgsed3/IARE/707004
+396,707005,Tennant Creek Town,707,Tennant Creek,7,Northern Territory,AUS,Australia,42.0605,http://linked.data.gov.au/dataset/asgsed3/IARE/707005
+397,707006,Wutunugurra - Canteen Creek,707,Tennant Creek,7,Northern Territory,AUS,Australia,2.1975,http://linked.data.gov.au/dataset/asgsed3/IARE/707006
+398,708001,Alice exc. Town Camps,708,Alice Springs,7,Northern Territory,AUS,Australia,320.7138,http://linked.data.gov.au/dataset/asgsed3/IARE/708001
+399,708002,Alice Springs Town Camps,708,Alice Springs,7,Northern Territory,AUS,Australia,6.9994,http://linked.data.gov.au/dataset/asgsed3/IARE/708002
+400,709001,Amoonguna - Santa Teresa - Titjikala,709,Apatula,7,Northern Territory,AUS,Australia,32774.1255,http://linked.data.gov.au/dataset/asgsed3/IARE/709001
+401,709002,Ampilatwatja and Outstations,709,Apatula,7,Northern Territory,AUS,Australia,15124.1872,http://linked.data.gov.au/dataset/asgsed3/IARE/709002
+402,709003,Anmatjere,709,Apatula,7,Northern Territory,AUS,Australia,49683.763,http://linked.data.gov.au/dataset/asgsed3/IARE/709003
+403,709004,Apatula (Finke) and Homelands,709,Apatula,7,Northern Territory,AUS,Australia,87614.3592,http://linked.data.gov.au/dataset/asgsed3/IARE/709004
+404,709005,Atitjere - Akarnenehe - Engawala,709,Apatula,7,Northern Territory,AUS,Australia,67466.6813,http://linked.data.gov.au/dataset/asgsed3/IARE/709005
+405,709006,Haasts Bluff - Mount Liebig (Watiyawanu),709,Apatula,7,Northern Territory,AUS,Australia,3553.9002,http://linked.data.gov.au/dataset/asgsed3/IARE/709006
+406,709007,Hermannsburg,709,Apatula,7,Northern Territory,AUS,Australia,13.3095,http://linked.data.gov.au/dataset/asgsed3/IARE/709007
+407,709008,Kaltukatjara and Outstations,709,Apatula,7,Northern Territory,AUS,Australia,87511.8426,http://linked.data.gov.au/dataset/asgsed3/IARE/709008
+408,709009,Mutitjulu - Uluru - Imanpa,709,Apatula,7,Northern Territory,AUS,Australia,121.9117,http://linked.data.gov.au/dataset/asgsed3/IARE/709009
+409,709010,Nyirripi and Tanami Outstations,709,Apatula,7,Northern Territory,AUS,Australia,142019.5548,http://linked.data.gov.au/dataset/asgsed3/IARE/709010
+410,709011,Papunya and Outstations,709,Apatula,7,Northern Territory,AUS,Australia,2330.9373,http://linked.data.gov.au/dataset/asgsed3/IARE/709011
+411,709012,Urapuntja,709,Apatula,7,Northern Territory,AUS,Australia,4375.0469,http://linked.data.gov.au/dataset/asgsed3/IARE/709012
+412,709013,Walungurru and Outstations,709,Apatula,7,Northern Territory,AUS,Australia,28762.8798,http://linked.data.gov.au/dataset/asgsed3/IARE/709013
+413,709014,West MacDonnell Ranges,709,Apatula,7,Northern Territory,AUS,Australia,25758.8796,http://linked.data.gov.au/dataset/asgsed3/IARE/709014
+414,709015,Willowra,709,Apatula,7,Northern Territory,AUS,Australia,13.7451,http://linked.data.gov.au/dataset/asgsed3/IARE/709015
+415,709016,Yuelamu,709,Apatula,7,Northern Territory,AUS,Australia,26.6195,http://linked.data.gov.au/dataset/asgsed3/IARE/709016
+416,709017,Yuendumu and Outstations,709,Apatula,7,Northern Territory,AUS,Australia,22120.9495,http://linked.data.gov.au/dataset/asgsed3/IARE/709017
+417,794994,No usual address (NT),794,No usual address (NT),7,Northern Territory,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/IARE/794994
+418,797997,Migratory - Offshore - Shipping (NT),797,Migratory - Offshore - Shipping (NT),7,Northern Territory,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/IARE/797997
+419,801001,Canberra - North,801,ACT,8,Australian Capital Territory,AUS,Australia,437.6545,http://linked.data.gov.au/dataset/asgsed3/IARE/801001
+420,801002,Canberra - South,801,ACT,8,Australian Capital Territory,AUS,Australia,278.865,http://linked.data.gov.au/dataset/asgsed3/IARE/801002
+421,801003,Stromlo - Namadgi,801,ACT,8,Australian Capital Territory,AUS,Australia,1641.6135,http://linked.data.gov.au/dataset/asgsed3/IARE/801003
+422,894994,No usual address (ACT),894,No usual address (ACT),8,Australian Capital Territory,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/IARE/894994
+423,897997,Migratory - Offshore - Shipping (ACT),897,Migratory - Offshore - Shipping (ACT),8,Australian Capital Territory,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/IARE/897997
+424,901001,Christmas Island,901,Christmas - Cocos (Keeling) Is.,9,Other Territories,AUS,Australia,136.1356,http://linked.data.gov.au/dataset/asgsed3/IARE/901001
+425,901002,Cocos (Keeling) Islands,901,Christmas - Cocos (Keeling) Is.,9,Other Territories,AUS,Australia,13.7258,http://linked.data.gov.au/dataset/asgsed3/IARE/901002
+426,902001,Jervis Bay,902,Jervis Bay,9,Other Territories,AUS,Australia,67.2296,http://linked.data.gov.au/dataset/asgsed3/IARE/902001
+427,903001,Norfolk Island,903,Norfolk Island,9,Other Territories,AUS,Australia,38.651,http://linked.data.gov.au/dataset/asgsed3/IARE/903001
+428,994994,No usual address (OT),994,No usual address (OT),9,Other Territories,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/IARE/994994
+429,997997,Migratory - Offshore - Shipping (OT),997,Migratory - Offshore - Shipping (OT),9,Other Territories,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/IARE/997997
+430,ZZZZZZ,Outside Australia,ZZZ,Outside Australia,Z,Outside Australia,ZZZ,Outside Australia,,http://linked.data.gov.au/dataset/asgsed3/IARE/ZZZZZZ

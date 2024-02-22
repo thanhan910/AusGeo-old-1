@@ -1,0 +1,36 @@
+,GCCSA_CODE_2021,GCCSA_NAME_2021,CHANGE_FLAG_2021,CHANGE_LABEL_2021,STATE_CODE_2021,STATE_NAME_2021,AUS_CODE_2021,AUS_NAME_2021,AREA_ALBERS_SQKM,ASGS_LOCI_URI_2021
+0,1GSYD,Greater Sydney,0,No change,1,New South Wales,AUS,Australia,12368.6858,http://linked.data.gov.au/dataset/asgsed3/GCCSA/1GSYD
+1,1RNSW,Rest of NSW,0,No change,1,New South Wales,AUS,Australia,788428.9733,http://linked.data.gov.au/dataset/asgsed3/GCCSA/1RNSW
+2,19499,No usual address (NSW),0,No change,1,New South Wales,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/GCCSA/19499
+3,19799,Migratory - Offshore - Shipping (NSW),0,No change,1,New South Wales,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/GCCSA/19799
+4,2GMEL,Greater Melbourne,0,No change,2,Victoria,AUS,Australia,9992.6081,http://linked.data.gov.au/dataset/asgsed3/GCCSA/2GMEL
+5,2RVIC,Rest of Vic.,0,No change,2,Victoria,AUS,Australia,217503.6398,http://linked.data.gov.au/dataset/asgsed3/GCCSA/2RVIC
+6,29499,No usual address (Vic.),0,No change,2,Victoria,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/GCCSA/29499
+7,29799,Migratory - Offshore - Shipping (Vic.),0,No change,2,Victoria,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/GCCSA/29799
+8,3GBRI,Greater Brisbane,0,No change,3,Queensland,AUS,Australia,15842.0073,http://linked.data.gov.au/dataset/asgsed3/GCCSA/3GBRI
+9,3RQLD,Rest of Qld,0,No change,3,Queensland,AUS,Australia,1714329.2135,http://linked.data.gov.au/dataset/asgsed3/GCCSA/3RQLD
+10,39499,No usual address (Qld),0,No change,3,Queensland,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/GCCSA/39499
+11,39799,Migratory - Offshore - Shipping (Qld),0,No change,3,Queensland,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/GCCSA/39799
+12,4GADE,Greater Adelaide,0,No change,4,South Australia,AUS,Australia,3259.8859,http://linked.data.gov.au/dataset/asgsed3/GCCSA/4GADE
+13,4RSAU,Rest of SA,0,No change,4,South Australia,AUS,Australia,980971.5343,http://linked.data.gov.au/dataset/asgsed3/GCCSA/4RSAU
+14,49499,No usual address (SA),0,No change,4,South Australia,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/GCCSA/49499
+15,49799,Migratory - Offshore - Shipping (SA),0,No change,4,South Australia,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/GCCSA/49799
+16,5GPER,Greater Perth,0,No change,5,Western Australia,AUS,Australia,6416.5721,http://linked.data.gov.au/dataset/asgsed3/GCCSA/5GPER
+17,5RWAU,Rest of WA,0,No change,5,Western Australia,AUS,Australia,2520215.9104,http://linked.data.gov.au/dataset/asgsed3/GCCSA/5RWAU
+18,59499,No usual address (WA),0,No change,5,Western Australia,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/GCCSA/59499
+19,59799,Migratory - Offshore - Shipping (WA),0,No change,5,Western Australia,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/GCCSA/59799
+20,6GHOB,Greater Hobart,0,No change,6,Tasmania,AUS,Australia,1695.3611,http://linked.data.gov.au/dataset/asgsed3/GCCSA/6GHOB
+21,6RTAS,Rest of Tas.,0,No change,6,Tasmania,AUS,Australia,66322.1782,http://linked.data.gov.au/dataset/asgsed3/GCCSA/6RTAS
+22,69499,No usual address (Tas.),0,No change,6,Tasmania,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/GCCSA/69499
+23,69799,Migratory - Offshore - Shipping (Tas.),0,No change,6,Tasmania,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/GCCSA/69799
+24,7GDAR,Greater Darwin,0,No change,7,Northern Territory,AUS,Australia,3167.7034,http://linked.data.gov.au/dataset/asgsed3/GCCSA/7GDAR
+25,7RNTE,Rest of NT,0,No change,7,Northern Territory,AUS,Australia,1344966.7897,http://linked.data.gov.au/dataset/asgsed3/GCCSA/7RNTE
+26,79499,No usual address (NT),0,No change,7,Northern Territory,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/GCCSA/79499
+27,79799,Migratory - Offshore - Shipping (NT),0,No change,7,Northern Territory,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/GCCSA/79799
+28,8ACTE,Australian Capital Territory,0,No change,8,Australian Capital Territory,AUS,Australia,2358.133,http://linked.data.gov.au/dataset/asgsed3/GCCSA/8ACTE
+29,89499,No usual address (ACT),0,No change,8,Australian Capital Territory,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/GCCSA/89499
+30,89799,Migratory - Offshore - Shipping (ACT),0,No change,8,Australian Capital Territory,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/GCCSA/89799
+31,9OTER,Other Territories,0,No change,9,Other Territories,AUS,Australia,255.742,http://linked.data.gov.au/dataset/asgsed3/GCCSA/9OTER
+32,99499,No usual address (OT),0,No change,9,Other Territories,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/GCCSA/99499
+33,99799,Migratory - Offshore - Shipping (OT),0,No change,9,Other Territories,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/GCCSA/99799
+34,ZZZZZ,Outside Australia,1,New,Z,Outside Australia,ZZZ,Outside Australia,,http://linked.data.gov.au/dataset/asgsed3/GCCSA/ZZZZZ

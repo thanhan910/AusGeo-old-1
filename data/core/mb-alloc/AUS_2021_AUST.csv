@@ -1,0 +1,3 @@
+,AUS_CODE_2021,AUS_NAME_2021,CHANGE_FLAG_2021,CHANGE_LABEL_2021,AREA_ALBERS_SQKM,ASGS_LOCI_URI_2021
+0,AUS,Australia,0,No change,7688094.9379,http://linked.data.gov.au/dataset/asgsed3/AUS/AUS
+1,ZZZ,Outside Australia,1,New,,http://linked.data.gov.au/dataset/asgsed3/AUS/ZZZ
