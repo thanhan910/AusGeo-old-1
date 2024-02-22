@@ -1,109 +1,109 @@
-,SA4_CODE_2021,SA4_NAME_2021,CHANGE_FLAG_2021,CHANGE_LABEL_2021,GCCSA_CODE_2021,GCCSA_NAME_2021,STATE_CODE_2021,STATE_NAME_2021,AUS_CODE_2021,AUS_NAME_2021,AREA_ALBERS_SQKM,ASGS_LOCI_URI_2021
-0,101,Capital Region,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,51896.2444,http://linked.data.gov.au/dataset/asgsed3/SA4/101
-1,102,Central Coast,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,1681.0088,http://linked.data.gov.au/dataset/asgsed3/SA4/102
-2,103,Central West,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,70297.06,http://linked.data.gov.au/dataset/asgsed3/SA4/103
-3,104,Coffs Harbour - Grafton,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,13229.7577,http://linked.data.gov.au/dataset/asgsed3/SA4/104
-4,105,Far West and Orana,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,339355.6461,http://linked.data.gov.au/dataset/asgsed3/SA4/105
-5,106,Hunter Valley exc Newcastle,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,21491.2917,http://linked.data.gov.au/dataset/asgsed3/SA4/106
-6,107,Illawarra,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,1539.2405,http://linked.data.gov.au/dataset/asgsed3/SA4/107
-7,108,Mid North Coast,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,18851.4986,http://linked.data.gov.au/dataset/asgsed3/SA4/108
-8,109,Murray,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,97796.4898,http://linked.data.gov.au/dataset/asgsed3/SA4/109
-9,110,New England and North West,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,99139.8999,http://linked.data.gov.au/dataset/asgsed3/SA4/110
-10,111,Newcastle and Lake Macquarie,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,870.5821,http://linked.data.gov.au/dataset/asgsed3/SA4/111
-11,112,Richmond - Tweed,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,10271.3201,http://linked.data.gov.au/dataset/asgsed3/SA4/112
-12,113,Riverina,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,56984.9805,http://linked.data.gov.au/dataset/asgsed3/SA4/113
-13,114,Southern Highlands and Shoalhaven,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,6704.9619,http://linked.data.gov.au/dataset/asgsed3/SA4/114
-14,115,Sydney - Baulkham Hills and Hawkesbury,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,3251.4981,http://linked.data.gov.au/dataset/asgsed3/SA4/115
-15,116,Sydney - Blacktown,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,240.8835,http://linked.data.gov.au/dataset/asgsed3/SA4/116
-16,117,Sydney - City and Inner South,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,66.1035,http://linked.data.gov.au/dataset/asgsed3/SA4/117
-17,118,Sydney - Eastern Suburbs,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,57.7342,http://linked.data.gov.au/dataset/asgsed3/SA4/118
-18,119,Sydney - Inner South West,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,163.9272,http://linked.data.gov.au/dataset/asgsed3/SA4/119
-19,120,Sydney - Inner West,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,64.5491,http://linked.data.gov.au/dataset/asgsed3/SA4/120
-20,121,Sydney - North Sydney and Hornsby,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,275.0994,http://linked.data.gov.au/dataset/asgsed3/SA4/121
-21,122,Sydney - Northern Beaches,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,254.2072,http://linked.data.gov.au/dataset/asgsed3/SA4/122
-22,123,Sydney - Outer South West,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,1277.2421,http://linked.data.gov.au/dataset/asgsed3/SA4/123
-23,124,Sydney - Outer West and Blue Mountains,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,3968.1294,http://linked.data.gov.au/dataset/asgsed3/SA4/124
-24,125,Sydney - Parramatta,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,162.835,http://linked.data.gov.au/dataset/asgsed3/SA4/125
-25,126,Sydney - Ryde,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,69.3368,http://linked.data.gov.au/dataset/asgsed3/SA4/126
-26,127,Sydney - South West,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,540.279,http://linked.data.gov.au/dataset/asgsed3/SA4/127
-27,128,Sydney - Sutherland,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,295.8525,http://linked.data.gov.au/dataset/asgsed3/SA4/128
-28,197,Migratory - Offshore - Shipping (NSW),0,No change,19799,Migratory - Offshore - Shipping (NSW),1,New South Wales,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/197
-29,199,No usual address (NSW),0,No change,19499,No usual address (NSW),1,New South Wales,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/199
-30,201,Ballarat,0,No change,2RVIC,Rest of Vic.,2,Victoria,AUS,Australia,10287.4757,http://linked.data.gov.au/dataset/asgsed3/SA4/201
-31,202,Bendigo,0,No change,2RVIC,Rest of Vic.,2,Victoria,AUS,Australia,11841.9058,http://linked.data.gov.au/dataset/asgsed3/SA4/202
-32,203,Geelong,0,No change,2RVIC,Rest of Vic.,2,Victoria,AUS,Australia,4428.699,http://linked.data.gov.au/dataset/asgsed3/SA4/203
-33,204,Hume,0,No change,2RVIC,Rest of Vic.,2,Victoria,AUS,Australia,34006.4765,http://linked.data.gov.au/dataset/asgsed3/SA4/204
-34,205,Latrobe - Gippsland,0,No change,2RVIC,Rest of Vic.,2,Victoria,AUS,Australia,41553.1093,http://linked.data.gov.au/dataset/asgsed3/SA4/205
-35,206,Melbourne - Inner,0,No change,2GMEL,Greater Melbourne,2,Victoria,AUS,Australia,142.4579,http://linked.data.gov.au/dataset/asgsed3/SA4/206
-36,207,Melbourne - Inner East,0,No change,2GMEL,Greater Melbourne,2,Victoria,AUS,Australia,146.7436,http://linked.data.gov.au/dataset/asgsed3/SA4/207
-37,208,Melbourne - Inner South,0,No change,2GMEL,Greater Melbourne,2,Victoria,AUS,Australia,161.4964,http://linked.data.gov.au/dataset/asgsed3/SA4/208
-38,209,Melbourne - North East,0,No change,2GMEL,Greater Melbourne,2,Victoria,AUS,Australia,1851.2647,http://linked.data.gov.au/dataset/asgsed3/SA4/209
-39,210,Melbourne - North West,0,No change,2GMEL,Greater Melbourne,2,Victoria,AUS,Australia,1619.6884,http://linked.data.gov.au/dataset/asgsed3/SA4/210
-40,211,Melbourne - Outer East,0,No change,2GMEL,Greater Melbourne,2,Victoria,AUS,Australia,1878.5577,http://linked.data.gov.au/dataset/asgsed3/SA4/211
-41,212,Melbourne - South East,0,No change,2GMEL,Greater Melbourne,2,Victoria,AUS,Australia,1922.2794,http://linked.data.gov.au/dataset/asgsed3/SA4/212
-42,213,Melbourne - West,0,No change,2GMEL,Greater Melbourne,2,Victoria,AUS,Australia,1416.3538,http://linked.data.gov.au/dataset/asgsed3/SA4/213
-43,214,Mornington Peninsula,0,No change,2GMEL,Greater Melbourne,2,Victoria,AUS,Australia,853.7662,http://linked.data.gov.au/dataset/asgsed3/SA4/214
-44,215,North West,0,No change,2RVIC,Rest of Vic.,2,Victoria,AUS,Australia,78072.9843,http://linked.data.gov.au/dataset/asgsed3/SA4/215
-45,216,Shepparton,0,No change,2RVIC,Rest of Vic.,2,Victoria,AUS,Australia,10933.8661,http://linked.data.gov.au/dataset/asgsed3/SA4/216
-46,217,Warrnambool and South West,0,No change,2RVIC,Rest of Vic.,2,Victoria,AUS,Australia,26379.1231,http://linked.data.gov.au/dataset/asgsed3/SA4/217
-47,297,Migratory - Offshore - Shipping (Vic.),0,No change,29799,Migratory - Offshore - Shipping (Vic.),2,Victoria,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/297
-48,299,No usual address (Vic.),0,No change,29499,No usual address (Vic.),2,Victoria,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/299
-49,301,Brisbane - East,0,No change,3GBRI,Greater Brisbane,3,Queensland,AUS,Australia,653.1329,http://linked.data.gov.au/dataset/asgsed3/SA4/301
-50,302,Brisbane - North,0,No change,3GBRI,Greater Brisbane,3,Queensland,AUS,Australia,186.9483,http://linked.data.gov.au/dataset/asgsed3/SA4/302
-51,303,Brisbane - South,0,No change,3GBRI,Greater Brisbane,3,Queensland,AUS,Australia,265.3445,http://linked.data.gov.au/dataset/asgsed3/SA4/303
-52,304,Brisbane - West,0,No change,3GBRI,Greater Brisbane,3,Queensland,AUS,Australia,269.6508,http://linked.data.gov.au/dataset/asgsed3/SA4/304
-53,305,Brisbane Inner City,0,No change,3GBRI,Greater Brisbane,3,Queensland,AUS,Australia,81.7393,http://linked.data.gov.au/dataset/asgsed3/SA4/305
-54,306,Cairns,0,No change,3RQLD,Rest of Qld,3,Queensland,AUS,Australia,21337.9778,http://linked.data.gov.au/dataset/asgsed3/SA4/306
-55,307,Darling Downs - Maranoa,0,No change,3RQLD,Rest of Qld,3,Queensland,AUS,Australia,166346.6638,http://linked.data.gov.au/dataset/asgsed3/SA4/307
-56,308,Central Queensland,0,No change,3RQLD,Rest of Qld,3,Queensland,AUS,Australia,117588.0016,http://linked.data.gov.au/dataset/asgsed3/SA4/308
-57,309,Gold Coast,0,No change,3RQLD,Rest of Qld,3,Queensland,AUS,Australia,1857.7774,http://linked.data.gov.au/dataset/asgsed3/SA4/309
-58,310,Ipswich,0,No change,3GBRI,Greater Brisbane,3,Queensland,AUS,Australia,6681.1781,http://linked.data.gov.au/dataset/asgsed3/SA4/310
-59,311,Logan - Beaudesert,0,No change,3GBRI,Greater Brisbane,3,Queensland,AUS,Australia,2586.163,http://linked.data.gov.au/dataset/asgsed3/SA4/311
-60,312,Mackay - Isaac - Whitsunday,0,No change,3RQLD,Rest of Qld,3,Queensland,AUS,Australia,90140.1884,http://linked.data.gov.au/dataset/asgsed3/SA4/312
-61,313,Moreton Bay - North,0,No change,3GBRI,Greater Brisbane,3,Queensland,AUS,Australia,4344.4557,http://linked.data.gov.au/dataset/asgsed3/SA4/313
-62,314,Moreton Bay - South,0,No change,3GBRI,Greater Brisbane,3,Queensland,AUS,Australia,773.3947,http://linked.data.gov.au/dataset/asgsed3/SA4/314
-63,315,Queensland - Outback,0,No change,3RQLD,Rest of Qld,3,Queensland,AUS,Australia,1183175.1279,http://linked.data.gov.au/dataset/asgsed3/SA4/315
-64,316,Sunshine Coast,0,No change,3RQLD,Rest of Qld,3,Queensland,AUS,Australia,3085.911,http://linked.data.gov.au/dataset/asgsed3/SA4/316
-65,317,Toowoomba,0,No change,3RQLD,Rest of Qld,3,Queensland,AUS,Australia,2258.7953,http://linked.data.gov.au/dataset/asgsed3/SA4/317
-66,318,Townsville,0,No change,3RQLD,Rest of Qld,3,Queensland,AUS,Australia,80036.0978,http://linked.data.gov.au/dataset/asgsed3/SA4/318
-67,319,Wide Bay,0,No change,3RQLD,Rest of Qld,3,Queensland,AUS,Australia,48502.6725,http://linked.data.gov.au/dataset/asgsed3/SA4/319
-68,397,Migratory - Offshore - Shipping (Qld),0,No change,39799,Migratory - Offshore - Shipping (Qld),3,Queensland,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/397
-69,399,No usual address (Qld),0,No change,39499,No usual address (Qld),3,Queensland,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/399
-70,401,Adelaide - Central and Hills,0,No change,4GADE,Greater Adelaide,4,South Australia,AUS,Australia,1497.2718,http://linked.data.gov.au/dataset/asgsed3/SA4/401
-71,402,Adelaide - North,0,No change,4GADE,Greater Adelaide,4,South Australia,AUS,Australia,939.9938,http://linked.data.gov.au/dataset/asgsed3/SA4/402
-72,403,Adelaide - South,0,No change,4GADE,Greater Adelaide,4,South Australia,AUS,Australia,663.0817,http://linked.data.gov.au/dataset/asgsed3/SA4/403
-73,404,Adelaide - West,0,No change,4GADE,Greater Adelaide,4,South Australia,AUS,Australia,159.5386,http://linked.data.gov.au/dataset/asgsed3/SA4/404
-74,405,Barossa - Yorke - Mid North,0,No change,4RSAU,Rest of SA,4,South Australia,AUS,Australia,37716.3849,http://linked.data.gov.au/dataset/asgsed3/SA4/405
-75,406,South Australia - Outback,0,No change,4RSAU,Rest of SA,4,South Australia,AUS,Australia,877772.5757,http://linked.data.gov.au/dataset/asgsed3/SA4/406
-76,407,South Australia - South East,0,No change,4RSAU,Rest of SA,4,South Australia,AUS,Australia,65482.5737,http://linked.data.gov.au/dataset/asgsed3/SA4/407
-77,497,Migratory - Offshore - Shipping (SA),0,No change,49799,Migratory - Offshore - Shipping (SA),4,South Australia,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/497
-78,499,No usual address (SA),0,No change,49499,No usual address (SA),4,South Australia,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/499
-79,501,Bunbury,0,No change,5RWAU,Rest of WA,5,Western Australia,AUS,Australia,24802.4119,http://linked.data.gov.au/dataset/asgsed3/SA4/501
-80,502,Mandurah,0,No change,5GPER,Greater Perth,5,Western Australia,AUS,Australia,1032.8629,http://linked.data.gov.au/dataset/asgsed3/SA4/502
-81,503,Perth - Inner,0,No change,5GPER,Greater Perth,5,Western Australia,AUS,Australia,92.2541,http://linked.data.gov.au/dataset/asgsed3/SA4/503
-82,504,Perth - North East,0,No change,5GPER,Greater Perth,5,Western Australia,AUS,Australia,1762.4319,http://linked.data.gov.au/dataset/asgsed3/SA4/504
-83,505,Perth - North West,0,No change,5GPER,Greater Perth,5,Western Australia,AUS,Australia,884.0128,http://linked.data.gov.au/dataset/asgsed3/SA4/505
-84,506,Perth - South East,0,No change,5GPER,Greater Perth,5,Western Australia,AUS,Australia,2023.9919,http://linked.data.gov.au/dataset/asgsed3/SA4/506
-85,507,Perth - South West,0,No change,5GPER,Greater Perth,5,Western Australia,AUS,Australia,621.0185,http://linked.data.gov.au/dataset/asgsed3/SA4/507
-86,509,Western Australia - Wheat Belt,0,No change,5RWAU,Rest of WA,5,Western Australia,AUS,Australia,197345.5326,http://linked.data.gov.au/dataset/asgsed3/SA4/509
-87,510,Western Australia - Outback (North),0,No change,5RWAU,Rest of WA,5,Western Australia,AUS,Australia,926023.1631,http://linked.data.gov.au/dataset/asgsed3/SA4/510
-88,511,Western Australia - Outback (South),0,No change,5RWAU,Rest of WA,5,Western Australia,AUS,Australia,1372044.8028,http://linked.data.gov.au/dataset/asgsed3/SA4/511
-89,597,Migratory - Offshore - Shipping (WA),0,No change,59799,Migratory - Offshore - Shipping (WA),5,Western Australia,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/597
-90,599,No usual address (WA),0,No change,59499,No usual address (WA),5,Western Australia,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/599
-91,601,Hobart,0,No change,6GHOB,Greater Hobart,6,Tasmania,AUS,Australia,1695.3611,http://linked.data.gov.au/dataset/asgsed3/SA4/601
-92,602,Launceston and North East,0,No change,6RTAS,Rest of Tas.,6,Tasmania,AUS,Australia,19975.336,http://linked.data.gov.au/dataset/asgsed3/SA4/602
-93,603,South East,0,No change,6RTAS,Rest of Tas.,6,Tasmania,AUS,Australia,23822.0525,http://linked.data.gov.au/dataset/asgsed3/SA4/603
-94,604,West and North West,0,No change,6RTAS,Rest of Tas.,6,Tasmania,AUS,Australia,22524.7897,http://linked.data.gov.au/dataset/asgsed3/SA4/604
-95,697,Migratory - Offshore - Shipping (Tas.),0,No change,69799,Migratory - Offshore - Shipping (Tas.),6,Tasmania,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/697
-96,699,No usual address (Tas.),0,No change,69499,No usual address (Tas.),6,Tasmania,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/699
-97,701,Darwin,0,No change,7GDAR,Greater Darwin,7,Northern Territory,AUS,Australia,3167.7034,http://linked.data.gov.au/dataset/asgsed3/SA4/701
-98,702,Northern Territory - Outback,0,No change,7RNTE,Rest of NT,7,Northern Territory,AUS,Australia,1344966.7897,http://linked.data.gov.au/dataset/asgsed3/SA4/702
-99,797,Migratory - Offshore - Shipping (NT),0,No change,79799,Migratory - Offshore - Shipping (NT),7,Northern Territory,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/797
-100,799,No usual address (NT),0,No change,79499,No usual address (NT),7,Northern Territory,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/799
-101,801,Australian Capital Territory,0,No change,8ACTE,Australian Capital Territory,8,Australian Capital Territory,AUS,Australia,2358.133,http://linked.data.gov.au/dataset/asgsed3/SA4/801
-102,897,Migratory - Offshore - Shipping (ACT),0,No change,89799,Migratory - Offshore - Shipping (ACT),8,Australian Capital Territory,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/897
-103,899,No usual address (ACT),0,No change,89499,No usual address (ACT),8,Australian Capital Territory,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/899
-104,901,Other Territories,0,No change,9OTER,Other Territories,9,Other Territories,AUS,Australia,255.742,http://linked.data.gov.au/dataset/asgsed3/SA4/901
-105,997,Migratory - Offshore - Shipping (OT),0,No change,99799,Migratory - Offshore - Shipping (OT),9,Other Territories,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/997
-106,999,No usual address (OT),0,No change,99499,No usual address (OT),9,Other Territories,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/999
-107,ZZZ,Outside Australia,1,New,ZZZZZ,Outside Australia,Z,Outside Australia,ZZZ,Outside Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/ZZZ
+SA4_CODE_2021,SA4_NAME_2021,CHANGE_FLAG_2021,CHANGE_LABEL_2021,GCCSA_CODE_2021,GCCSA_NAME_2021,STATE_CODE_2021,STATE_NAME_2021,AUS_CODE_2021,AUS_NAME_2021,AREA_ALBERS_SQKM,ASGS_LOCI_URI_2021
+101,Capital Region,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,51896.2444,http://linked.data.gov.au/dataset/asgsed3/SA4/101
+102,Central Coast,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,1681.0088,http://linked.data.gov.au/dataset/asgsed3/SA4/102
+103,Central West,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,70297.06,http://linked.data.gov.au/dataset/asgsed3/SA4/103
+104,Coffs Harbour - Grafton,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,13229.7577,http://linked.data.gov.au/dataset/asgsed3/SA4/104
+105,Far West and Orana,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,339355.6461,http://linked.data.gov.au/dataset/asgsed3/SA4/105
+106,Hunter Valley exc Newcastle,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,21491.2917,http://linked.data.gov.au/dataset/asgsed3/SA4/106
+107,Illawarra,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,1539.2405,http://linked.data.gov.au/dataset/asgsed3/SA4/107
+108,Mid North Coast,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,18851.4986,http://linked.data.gov.au/dataset/asgsed3/SA4/108
+109,Murray,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,97796.4898,http://linked.data.gov.au/dataset/asgsed3/SA4/109
+110,New England and North West,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,99139.8999,http://linked.data.gov.au/dataset/asgsed3/SA4/110
+111,Newcastle and Lake Macquarie,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,870.5821,http://linked.data.gov.au/dataset/asgsed3/SA4/111
+112,Richmond - Tweed,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,10271.3201,http://linked.data.gov.au/dataset/asgsed3/SA4/112
+113,Riverina,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,56984.9805,http://linked.data.gov.au/dataset/asgsed3/SA4/113
+114,Southern Highlands and Shoalhaven,0,No change,1RNSW,Rest of NSW,1,New South Wales,AUS,Australia,6704.9619,http://linked.data.gov.au/dataset/asgsed3/SA4/114
+115,Sydney - Baulkham Hills and Hawkesbury,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,3251.4981,http://linked.data.gov.au/dataset/asgsed3/SA4/115
+116,Sydney - Blacktown,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,240.8835,http://linked.data.gov.au/dataset/asgsed3/SA4/116
+117,Sydney - City and Inner South,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,66.1035,http://linked.data.gov.au/dataset/asgsed3/SA4/117
+118,Sydney - Eastern Suburbs,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,57.7342,http://linked.data.gov.au/dataset/asgsed3/SA4/118
+119,Sydney - Inner South West,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,163.9272,http://linked.data.gov.au/dataset/asgsed3/SA4/119
+120,Sydney - Inner West,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,64.5491,http://linked.data.gov.au/dataset/asgsed3/SA4/120
+121,Sydney - North Sydney and Hornsby,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,275.0994,http://linked.data.gov.au/dataset/asgsed3/SA4/121
+122,Sydney - Northern Beaches,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,254.2072,http://linked.data.gov.au/dataset/asgsed3/SA4/122
+123,Sydney - Outer South West,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,1277.2421,http://linked.data.gov.au/dataset/asgsed3/SA4/123
+124,Sydney - Outer West and Blue Mountains,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,3968.1294,http://linked.data.gov.au/dataset/asgsed3/SA4/124
+125,Sydney - Parramatta,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,162.835,http://linked.data.gov.au/dataset/asgsed3/SA4/125
+126,Sydney - Ryde,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,69.3368,http://linked.data.gov.au/dataset/asgsed3/SA4/126
+127,Sydney - South West,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,540.279,http://linked.data.gov.au/dataset/asgsed3/SA4/127
+128,Sydney - Sutherland,0,No change,1GSYD,Greater Sydney,1,New South Wales,AUS,Australia,295.8525,http://linked.data.gov.au/dataset/asgsed3/SA4/128
+197,Migratory - Offshore - Shipping (NSW),0,No change,19799,Migratory - Offshore - Shipping (NSW),1,New South Wales,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/197
+199,No usual address (NSW),0,No change,19499,No usual address (NSW),1,New South Wales,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/199
+201,Ballarat,0,No change,2RVIC,Rest of Vic.,2,Victoria,AUS,Australia,10287.4757,http://linked.data.gov.au/dataset/asgsed3/SA4/201
+202,Bendigo,0,No change,2RVIC,Rest of Vic.,2,Victoria,AUS,Australia,11841.9058,http://linked.data.gov.au/dataset/asgsed3/SA4/202
+203,Geelong,0,No change,2RVIC,Rest of Vic.,2,Victoria,AUS,Australia,4428.699,http://linked.data.gov.au/dataset/asgsed3/SA4/203
+204,Hume,0,No change,2RVIC,Rest of Vic.,2,Victoria,AUS,Australia,34006.4765,http://linked.data.gov.au/dataset/asgsed3/SA4/204
+205,Latrobe - Gippsland,0,No change,2RVIC,Rest of Vic.,2,Victoria,AUS,Australia,41553.1093,http://linked.data.gov.au/dataset/asgsed3/SA4/205
+206,Melbourne - Inner,0,No change,2GMEL,Greater Melbourne,2,Victoria,AUS,Australia,142.4579,http://linked.data.gov.au/dataset/asgsed3/SA4/206
+207,Melbourne - Inner East,0,No change,2GMEL,Greater Melbourne,2,Victoria,AUS,Australia,146.7436,http://linked.data.gov.au/dataset/asgsed3/SA4/207
+208,Melbourne - Inner South,0,No change,2GMEL,Greater Melbourne,2,Victoria,AUS,Australia,161.4964,http://linked.data.gov.au/dataset/asgsed3/SA4/208
+209,Melbourne - North East,0,No change,2GMEL,Greater Melbourne,2,Victoria,AUS,Australia,1851.2647,http://linked.data.gov.au/dataset/asgsed3/SA4/209
+210,Melbourne - North West,0,No change,2GMEL,Greater Melbourne,2,Victoria,AUS,Australia,1619.6884,http://linked.data.gov.au/dataset/asgsed3/SA4/210
+211,Melbourne - Outer East,0,No change,2GMEL,Greater Melbourne,2,Victoria,AUS,Australia,1878.5577,http://linked.data.gov.au/dataset/asgsed3/SA4/211
+212,Melbourne - South East,0,No change,2GMEL,Greater Melbourne,2,Victoria,AUS,Australia,1922.2794,http://linked.data.gov.au/dataset/asgsed3/SA4/212
+213,Melbourne - West,0,No change,2GMEL,Greater Melbourne,2,Victoria,AUS,Australia,1416.3538,http://linked.data.gov.au/dataset/asgsed3/SA4/213
+214,Mornington Peninsula,0,No change,2GMEL,Greater Melbourne,2,Victoria,AUS,Australia,853.7662,http://linked.data.gov.au/dataset/asgsed3/SA4/214
+215,North West,0,No change,2RVIC,Rest of Vic.,2,Victoria,AUS,Australia,78072.9843,http://linked.data.gov.au/dataset/asgsed3/SA4/215
+216,Shepparton,0,No change,2RVIC,Rest of Vic.,2,Victoria,AUS,Australia,10933.8661,http://linked.data.gov.au/dataset/asgsed3/SA4/216
+217,Warrnambool and South West,0,No change,2RVIC,Rest of Vic.,2,Victoria,AUS,Australia,26379.1231,http://linked.data.gov.au/dataset/asgsed3/SA4/217
+297,Migratory - Offshore - Shipping (Vic.),0,No change,29799,Migratory - Offshore - Shipping (Vic.),2,Victoria,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/297
+299,No usual address (Vic.),0,No change,29499,No usual address (Vic.),2,Victoria,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/299
+301,Brisbane - East,0,No change,3GBRI,Greater Brisbane,3,Queensland,AUS,Australia,653.1329,http://linked.data.gov.au/dataset/asgsed3/SA4/301
+302,Brisbane - North,0,No change,3GBRI,Greater Brisbane,3,Queensland,AUS,Australia,186.9483,http://linked.data.gov.au/dataset/asgsed3/SA4/302
+303,Brisbane - South,0,No change,3GBRI,Greater Brisbane,3,Queensland,AUS,Australia,265.3445,http://linked.data.gov.au/dataset/asgsed3/SA4/303
+304,Brisbane - West,0,No change,3GBRI,Greater Brisbane,3,Queensland,AUS,Australia,269.6508,http://linked.data.gov.au/dataset/asgsed3/SA4/304
+305,Brisbane Inner City,0,No change,3GBRI,Greater Brisbane,3,Queensland,AUS,Australia,81.7393,http://linked.data.gov.au/dataset/asgsed3/SA4/305
+306,Cairns,0,No change,3RQLD,Rest of Qld,3,Queensland,AUS,Australia,21337.9778,http://linked.data.gov.au/dataset/asgsed3/SA4/306
+307,Darling Downs - Maranoa,0,No change,3RQLD,Rest of Qld,3,Queensland,AUS,Australia,166346.6638,http://linked.data.gov.au/dataset/asgsed3/SA4/307
+308,Central Queensland,0,No change,3RQLD,Rest of Qld,3,Queensland,AUS,Australia,117588.0016,http://linked.data.gov.au/dataset/asgsed3/SA4/308
+309,Gold Coast,0,No change,3RQLD,Rest of Qld,3,Queensland,AUS,Australia,1857.7774,http://linked.data.gov.au/dataset/asgsed3/SA4/309
+310,Ipswich,0,No change,3GBRI,Greater Brisbane,3,Queensland,AUS,Australia,6681.1781,http://linked.data.gov.au/dataset/asgsed3/SA4/310
+311,Logan - Beaudesert,0,No change,3GBRI,Greater Brisbane,3,Queensland,AUS,Australia,2586.163,http://linked.data.gov.au/dataset/asgsed3/SA4/311
+312,Mackay - Isaac - Whitsunday,0,No change,3RQLD,Rest of Qld,3,Queensland,AUS,Australia,90140.1884,http://linked.data.gov.au/dataset/asgsed3/SA4/312
+313,Moreton Bay - North,0,No change,3GBRI,Greater Brisbane,3,Queensland,AUS,Australia,4344.4557,http://linked.data.gov.au/dataset/asgsed3/SA4/313
+314,Moreton Bay - South,0,No change,3GBRI,Greater Brisbane,3,Queensland,AUS,Australia,773.3947,http://linked.data.gov.au/dataset/asgsed3/SA4/314
+315,Queensland - Outback,0,No change,3RQLD,Rest of Qld,3,Queensland,AUS,Australia,1183175.1279,http://linked.data.gov.au/dataset/asgsed3/SA4/315
+316,Sunshine Coast,0,No change,3RQLD,Rest of Qld,3,Queensland,AUS,Australia,3085.911,http://linked.data.gov.au/dataset/asgsed3/SA4/316
+317,Toowoomba,0,No change,3RQLD,Rest of Qld,3,Queensland,AUS,Australia,2258.7953,http://linked.data.gov.au/dataset/asgsed3/SA4/317
+318,Townsville,0,No change,3RQLD,Rest of Qld,3,Queensland,AUS,Australia,80036.0978,http://linked.data.gov.au/dataset/asgsed3/SA4/318
+319,Wide Bay,0,No change,3RQLD,Rest of Qld,3,Queensland,AUS,Australia,48502.6725,http://linked.data.gov.au/dataset/asgsed3/SA4/319
+397,Migratory - Offshore - Shipping (Qld),0,No change,39799,Migratory - Offshore - Shipping (Qld),3,Queensland,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/397
+399,No usual address (Qld),0,No change,39499,No usual address (Qld),3,Queensland,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/399
+401,Adelaide - Central and Hills,0,No change,4GADE,Greater Adelaide,4,South Australia,AUS,Australia,1497.2718,http://linked.data.gov.au/dataset/asgsed3/SA4/401
+402,Adelaide - North,0,No change,4GADE,Greater Adelaide,4,South Australia,AUS,Australia,939.9938,http://linked.data.gov.au/dataset/asgsed3/SA4/402
+403,Adelaide - South,0,No change,4GADE,Greater Adelaide,4,South Australia,AUS,Australia,663.0817,http://linked.data.gov.au/dataset/asgsed3/SA4/403
+404,Adelaide - West,0,No change,4GADE,Greater Adelaide,4,South Australia,AUS,Australia,159.5386,http://linked.data.gov.au/dataset/asgsed3/SA4/404
+405,Barossa - Yorke - Mid North,0,No change,4RSAU,Rest of SA,4,South Australia,AUS,Australia,37716.3849,http://linked.data.gov.au/dataset/asgsed3/SA4/405
+406,South Australia - Outback,0,No change,4RSAU,Rest of SA,4,South Australia,AUS,Australia,877772.5757,http://linked.data.gov.au/dataset/asgsed3/SA4/406
+407,South Australia - South East,0,No change,4RSAU,Rest of SA,4,South Australia,AUS,Australia,65482.5737,http://linked.data.gov.au/dataset/asgsed3/SA4/407
+497,Migratory - Offshore - Shipping (SA),0,No change,49799,Migratory - Offshore - Shipping (SA),4,South Australia,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/497
+499,No usual address (SA),0,No change,49499,No usual address (SA),4,South Australia,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/499
+501,Bunbury,0,No change,5RWAU,Rest of WA,5,Western Australia,AUS,Australia,24802.4119,http://linked.data.gov.au/dataset/asgsed3/SA4/501
+502,Mandurah,0,No change,5GPER,Greater Perth,5,Western Australia,AUS,Australia,1032.8629,http://linked.data.gov.au/dataset/asgsed3/SA4/502
+503,Perth - Inner,0,No change,5GPER,Greater Perth,5,Western Australia,AUS,Australia,92.2541,http://linked.data.gov.au/dataset/asgsed3/SA4/503
+504,Perth - North East,0,No change,5GPER,Greater Perth,5,Western Australia,AUS,Australia,1762.4319,http://linked.data.gov.au/dataset/asgsed3/SA4/504
+505,Perth - North West,0,No change,5GPER,Greater Perth,5,Western Australia,AUS,Australia,884.0128,http://linked.data.gov.au/dataset/asgsed3/SA4/505
+506,Perth - South East,0,No change,5GPER,Greater Perth,5,Western Australia,AUS,Australia,2023.9919,http://linked.data.gov.au/dataset/asgsed3/SA4/506
+507,Perth - South West,0,No change,5GPER,Greater Perth,5,Western Australia,AUS,Australia,621.0185,http://linked.data.gov.au/dataset/asgsed3/SA4/507
+509,Western Australia - Wheat Belt,0,No change,5RWAU,Rest of WA,5,Western Australia,AUS,Australia,197345.5326,http://linked.data.gov.au/dataset/asgsed3/SA4/509
+510,Western Australia - Outback (North),0,No change,5RWAU,Rest of WA,5,Western Australia,AUS,Australia,926023.1631,http://linked.data.gov.au/dataset/asgsed3/SA4/510
+511,Western Australia - Outback (South),0,No change,5RWAU,Rest of WA,5,Western Australia,AUS,Australia,1372044.8028,http://linked.data.gov.au/dataset/asgsed3/SA4/511
+597,Migratory - Offshore - Shipping (WA),0,No change,59799,Migratory - Offshore - Shipping (WA),5,Western Australia,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/597
+599,No usual address (WA),0,No change,59499,No usual address (WA),5,Western Australia,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/599
+601,Hobart,0,No change,6GHOB,Greater Hobart,6,Tasmania,AUS,Australia,1695.3611,http://linked.data.gov.au/dataset/asgsed3/SA4/601
+602,Launceston and North East,0,No change,6RTAS,Rest of Tas.,6,Tasmania,AUS,Australia,19975.336,http://linked.data.gov.au/dataset/asgsed3/SA4/602
+603,South East,0,No change,6RTAS,Rest of Tas.,6,Tasmania,AUS,Australia,23822.0525,http://linked.data.gov.au/dataset/asgsed3/SA4/603
+604,West and North West,0,No change,6RTAS,Rest of Tas.,6,Tasmania,AUS,Australia,22524.7897,http://linked.data.gov.au/dataset/asgsed3/SA4/604
+697,Migratory - Offshore - Shipping (Tas.),0,No change,69799,Migratory - Offshore - Shipping (Tas.),6,Tasmania,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/697
+699,No usual address (Tas.),0,No change,69499,No usual address (Tas.),6,Tasmania,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/699
+701,Darwin,0,No change,7GDAR,Greater Darwin,7,Northern Territory,AUS,Australia,3167.7034,http://linked.data.gov.au/dataset/asgsed3/SA4/701
+702,Northern Territory - Outback,0,No change,7RNTE,Rest of NT,7,Northern Territory,AUS,Australia,1344966.7897,http://linked.data.gov.au/dataset/asgsed3/SA4/702
+797,Migratory - Offshore - Shipping (NT),0,No change,79799,Migratory - Offshore - Shipping (NT),7,Northern Territory,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/797
+799,No usual address (NT),0,No change,79499,No usual address (NT),7,Northern Territory,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/799
+801,Australian Capital Territory,0,No change,8ACTE,Australian Capital Territory,8,Australian Capital Territory,AUS,Australia,2358.133,http://linked.data.gov.au/dataset/asgsed3/SA4/801
+897,Migratory - Offshore - Shipping (ACT),0,No change,89799,Migratory - Offshore - Shipping (ACT),8,Australian Capital Territory,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/897
+899,No usual address (ACT),0,No change,89499,No usual address (ACT),8,Australian Capital Territory,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/899
+901,Other Territories,0,No change,9OTER,Other Territories,9,Other Territories,AUS,Australia,255.742,http://linked.data.gov.au/dataset/asgsed3/SA4/901
+997,Migratory - Offshore - Shipping (OT),0,No change,99799,Migratory - Offshore - Shipping (OT),9,Other Territories,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/997
+999,No usual address (OT),0,No change,99499,No usual address (OT),9,Other Territories,AUS,Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/999
+ZZZ,Outside Australia,1,New,ZZZZZ,Outside Australia,Z,Outside Australia,ZZZ,Outside Australia,,http://linked.data.gov.au/dataset/asgsed3/SA4/ZZZ
