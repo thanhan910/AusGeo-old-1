@@ -6,10 +6,13 @@ import os
 import requests
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
+import time
 
 # root_directory = "AusGeo"
-root_directory = "."
-data_directory = f'{root_directory}/data/mb-alloc'
+root_directory = ".."
+data_directory = f'{root_directory}/data/core/mb-alloc'
+
+os.makedirs(data_directory, exist_ok=True)
 
 
 # Crawl all xlsx and csv files from website
@@ -33,15 +36,25 @@ hrefs = [urljoin(url, href) for href in hrefs if href is not None]
 xlsx_hrefs = [href for href in hrefs if href.endswith(".xlsx") or href.endswith(".csv")]
 xlsx_hrefs = [urljoin(url, href) for href in xlsx_hrefs]
 
-dfs = { href.split("/")[-1].split(".")[0] : pd.read_excel(href) for href in xlsx_hrefs }
-# 30m
+for href in xlsx_hrefs:
+    name = href.split("/")[-1].split(".")[0]
+    time_0 = time.perf_counter()
+    print(f'[{name}]', 'Start downloading...')
+    df = pd.read_excel(href, dtype=str)
+    time_1 = time.perf_counter()
+    print(f'[{name}]', 'Excel downloaded', time_1 - time_0)
+    df.to_csv(f'{data_directory}/{name}.csv', index=False)
+    time_2 = time.perf_counter()
+    print(f'[{name}]', 'Saved to CSV', time_2 - time_1)
 
+# dfs = { href.split("/")[-1].split(".")[0] : pd.read_excel(href) for href in xlsx_hrefs }
+# # 30m
 
-os.makedirs(data_directory, exist_ok=True)
+# os.makedirs(data_directory, exist_ok=True)
 
-for name, df in dfs.items():
-  df.to_csv(f'{data_directory}/{name}.csv')
-# 1m
+# for name, df in dfs.items():
+#   df.to_csv(f'{data_directory}/{name}.csv', index=False)
+# # 1m
 
 table_names = {
   'MB_2021_AUST': 'Mesh Blocks - 2021',
