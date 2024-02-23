@@ -1,0 +1,113 @@
+,sua_id,sua_name,country_id,country_name
+0,1000,Not in any Significant Urban Area (NSW),AUS,Australia
+1,1001,Albury - Wodonga,AUS,Australia
+2,1002,Armidale,AUS,Australia
+3,1003,Ballina,AUS,Australia
+4,1004,Batemans Bay,AUS,Australia
+5,1005,Bathurst,AUS,Australia
+6,1006,Bowral - Mittagong,AUS,Australia
+7,1007,Broken Hill,AUS,Australia
+8,1008,Byron Bay,AUS,Australia
+9,1009,Camden Haven,AUS,Australia
+10,1010,Central Coast,AUS,Australia
+11,1011,Coffs Harbour,AUS,Australia
+12,1012,Dubbo,AUS,Australia
+13,1013,Forster - Tuncurry,AUS,Australia
+14,1014,Goulburn,AUS,Australia
+15,1015,Grafton,AUS,Australia
+16,1016,Griffith,AUS,Australia
+17,1017,Kempsey,AUS,Australia
+18,1018,Lismore,AUS,Australia
+19,1019,Lithgow,AUS,Australia
+20,1020,Medowie,AUS,Australia
+21,1021,Morisset - Cooranbong,AUS,Australia
+22,1022,Mudgee,AUS,Australia
+23,1023,Muswellbrook,AUS,Australia
+24,1024,Nelson Bay,AUS,Australia
+25,1025,Newcastle - Maitland,AUS,Australia
+26,1026,Nowra - Bomaderry,AUS,Australia
+27,1027,Orange,AUS,Australia
+28,1028,Port Macquarie,AUS,Australia
+29,1029,Singleton,AUS,Australia
+30,1030,St Georges Basin - Sanctuary Point,AUS,Australia
+31,1031,Sydney,AUS,Australia
+32,1032,Tamworth,AUS,Australia
+33,1033,Taree,AUS,Australia
+34,1034,Ulladulla,AUS,Australia
+35,1035,Wagga Wagga,AUS,Australia
+36,1036,Wollongong,AUS,Australia
+37,2000,Not in any Significant Urban Area (Vic.),AUS,Australia
+38,2001,Bacchus Marsh,AUS,Australia
+39,2002,Bairnsdale,AUS,Australia
+40,2003,Ballarat,AUS,Australia
+41,2004,Bendigo,AUS,Australia
+42,2005,Castlemaine,AUS,Australia
+43,2006,Colac,AUS,Australia
+44,2007,Echuca - Moama,AUS,Australia
+45,2008,Geelong,AUS,Australia
+46,2009,Gisborne,AUS,Australia
+47,2010,Horsham,AUS,Australia
+48,2011,Melbourne,AUS,Australia
+49,2012,Mildura - Buronga,AUS,Australia
+50,2013,Moe - Newborough,AUS,Australia
+51,2014,Portland,AUS,Australia
+52,2015,Sale,AUS,Australia
+53,2016,Shepparton - Mooroopna,AUS,Australia
+54,2017,Swan Hill,AUS,Australia
+55,2018,Traralgon - Morwell,AUS,Australia
+56,2019,Wangaratta,AUS,Australia
+57,2020,Warragul - Drouin,AUS,Australia
+58,2021,Warrnambool,AUS,Australia
+59,3000,Not in any Significant Urban Area (Qld),AUS,Australia
+60,3001,Airlie Beach - Cannonvale,AUS,Australia
+61,3002,Brisbane,AUS,Australia
+62,3003,Bundaberg,AUS,Australia
+63,3004,Cairns,AUS,Australia
+64,3005,Emerald,AUS,Australia
+65,3006,Gladstone,AUS,Australia
+66,3007,Gold Coast - Tweed Heads,AUS,Australia
+67,3008,Gympie,AUS,Australia
+68,3009,Hervey Bay,AUS,Australia
+69,3010,Kingaroy,AUS,Australia
+70,3011,Mackay,AUS,Australia
+71,3012,Maryborough,AUS,Australia
+72,3013,Mount Isa,AUS,Australia
+73,3014,Rockhampton,AUS,Australia
+74,3015,Sunshine Coast,AUS,Australia
+75,3016,Toowoomba,AUS,Australia
+76,3017,Townsville,AUS,Australia
+77,3018,Warwick,AUS,Australia
+78,3019,Yeppoon,AUS,Australia
+79,4000,Not in any Significant Urban Area (SA),AUS,Australia
+80,4001,Adelaide,AUS,Australia
+81,4002,Mount Gambier,AUS,Australia
+82,4003,Murray Bridge,AUS,Australia
+83,4004,Port Augusta,AUS,Australia
+84,4005,Port Lincoln,AUS,Australia
+85,4006,Port Pirie,AUS,Australia
+86,4007,Victor Harbor - Goolwa,AUS,Australia
+87,4008,Whyalla,AUS,Australia
+88,5000,Not in any Significant Urban Area (WA),AUS,Australia
+89,5001,Albany,AUS,Australia
+90,5002,Broome,AUS,Australia
+91,5003,Bunbury,AUS,Australia
+92,5004,Busselton,AUS,Australia
+93,5005,Esperance,AUS,Australia
+94,5006,Geraldton,AUS,Australia
+95,5007,Kalgoorlie - Boulder,AUS,Australia
+96,5008,Karratha,AUS,Australia
+97,5009,Perth,AUS,Australia
+98,5010,Port Hedland,AUS,Australia
+99,6000,Not in any Significant Urban Area (Tas.),AUS,Australia
+100,6001,Burnie - Somerset,AUS,Australia
+101,6002,Devonport,AUS,Australia
+102,6003,Hobart,AUS,Australia
+103,6004,Launceston,AUS,Australia
+104,6005,Ulverstone,AUS,Australia
+105,7000,Not in any Significant Urban Area (NT),AUS,Australia
+106,7001,Alice Springs,AUS,Australia
+107,7002,Darwin,AUS,Australia
+108,8000,Not in any Significant Urban Area (ACT),AUS,Australia
+109,8001,Canberra - Queanbeyan,AUS,Australia
+110,9000,Not in any Significant Urban Area (OT),AUS,Australia
+111,ZZZZ,Outside Australia,ZZZ,Outside Australia
