@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::7844" } },
-"features": [
-{ "type": "Feature", "properties": { "MB_CODE21": "ZZZZZZZZZZZ", "MB_CAT21": "Outside Australia", "CHG_FLAG21": "1", "CHG_LBL21": "New", "SA1_CODE21": "ZZZZZZZZZZZ", "SA2_CODE21": "ZZZZZZZZZ", "SA2_NAME21": "Outside Australia", "SA3_CODE21": "ZZZZZ", "SA3_NAME21": "Outside Australia", "SA4_CODE21": "ZZZ", "SA4_NAME21": "Outside Australia", "GCC_CODE21": "ZZZZZ", "GCC_NAME21": "Outside Australia", "STE_CODE21": "Z", "STE_NAME21": "Outside Australia", "AUS_CODE21": "ZZZ", "AUS_NAME21": "Outside Australia", "AREASQKM21": null, "LOCI_URI21": "http://linked.data.gov.au/dataset/asgsed3/MB/ZZZZZZZZZZZ" }, "geometry": null }
-]
-}

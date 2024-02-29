@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::7844" } },
-"features": [
-{ "type": "Feature", "properties": { "MB_CODE21": "88000000778", "MB_CAT21": "MIGRATORY", "CHG_FLAG21": "0", "CHG_LBL21": "No change", "SA1_CODE21": "89797979991", "SA2_CODE21": "897979799", "SA2_NAME21": "Migratory - Offshore - Shipping (ACT)", "SA3_CODE21": "89797", "SA3_NAME21": "Migratory - Offshore - Shipping (ACT)", "SA4_CODE21": "897", "SA4_NAME21": "Migratory - Offshore - Shipping (ACT)", "GCC_CODE21": "89799", "GCC_NAME21": "Migratory - Offshore - Shipping (ACT)", "STE_CODE21": "8", "STE_NAME21": "Australian Capital Territory", "AUS_CODE21": "AUS", "AUS_NAME21": "Australia", "AREASQKM21": null, "LOCI_URI21": "http://linked.data.gov.au/dataset/asgsed3/MB/88000000778" }, "geometry": null }
-]
-}

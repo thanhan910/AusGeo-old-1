@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::7844" } },
-"features": [
-{ "type": "Feature", "properties": { "MB_CODE21": "80000009499", "MB_CAT21": "NOUSUALRESIDENCE", "CHG_FLAG21": "0", "CHG_LBL21": "No change", "SA1_CODE21": "89999949999", "SA2_CODE21": "899999499", "SA2_NAME21": "No usual address (ACT)", "SA3_CODE21": "89999", "SA3_NAME21": "No usual address (ACT)", "SA4_CODE21": "899", "SA4_NAME21": "No usual address (ACT)", "GCC_CODE21": "89499", "GCC_NAME21": "No usual address (ACT)", "STE_CODE21": "8", "STE_NAME21": "Australian Capital Territory", "AUS_CODE21": "AUS", "AUS_NAME21": "Australia", "AREASQKM21": null, "LOCI_URI21": "http://linked.data.gov.au/dataset/asgsed3/MB/80000009499" }, "geometry": null }
-]
-}
